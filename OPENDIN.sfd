@@ -20,7 +20,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1363975212
-ModificationTime: 1364032346
+ModificationTime: 1364229016
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -65,7 +65,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 275 11 4
+WinInfo: 0 11 4
 BeginPrivate: 9
 BlueValues 21 [0 0 477 501 676 687]
 OtherBlues 11 [-176 -161]
@@ -104,6 +104,7 @@ SplineSet
  419 39 l 1
  82 39 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: space
@@ -133,6 +134,7 @@ SplineSet
  136 676 l 1
  211 676 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" exclam.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" exclam.superior
 EndChar
@@ -157,6 +159,7 @@ SplineSet
  323 704 l 1
  323 550 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" quotedbl.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" quotedbl.superior
 EndChar
@@ -205,6 +208,7 @@ SplineSet
  553 484 l 1
  554 424 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" numbersign.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" numbersign.superior
 EndChar
@@ -258,6 +262,7 @@ SplineSet
  343 381 l 1
  395 372 434 357 459 336 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" dollar.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" dollar.superior
 EndChar
@@ -315,6 +320,7 @@ SplineSet
  722 310 733 281 733 246 c 2
  733 143 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" percent.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" percent.superior
 EndChar
@@ -366,6 +372,7 @@ SplineSet
  601 254 581 200 544 152 c 1
  642 34 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ampersand.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ampersand.superior
 EndChar
@@ -385,6 +392,7 @@ SplineSet
  171 704 l 1
  171 628 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" quoteright.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" quoteright.superior
 EndChar
@@ -412,6 +420,7 @@ SplineSet
  164 97 168 74 176 58 c 0
  184 42 201 21 227 -5 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" parenleft.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" parenleft.superior
 EndChar
@@ -440,6 +449,7 @@ SplineSet
  192 660 198 630 198 591 c 2
  198 121 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" parenright.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" parenright.superior
 EndChar
@@ -473,6 +483,7 @@ SplineSet
  282 537 l 1
  390 478 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" asterisk.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" asterisk.superior
 EndChar
@@ -500,6 +511,7 @@ SplineSet
  449 298 l 1
  449 237 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" plus.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" plus.superior
 EndChar
@@ -519,6 +531,7 @@ SplineSet
  172 76 l 1
  172 -61 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" comma.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" comma.superior
 EndChar
@@ -539,6 +552,7 @@ SplineSet
  392 300 l 1
  391 239 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" hyphen.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" hyphen.superior
 EndChar
@@ -558,6 +572,7 @@ SplineSet
  177 89 l 1
  177 5 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" period.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" period.superior
 EndChar
@@ -576,6 +591,7 @@ SplineSet
  274 743 l 1
  338 743 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" slash.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" slash.superior
 EndChar
@@ -613,6 +629,7 @@ SplineSet
  419 601 436 558 436 505 c 2
  436 207 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" zero.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" zero.superior
 EndChar
@@ -635,6 +652,7 @@ SplineSet
  320 676 l 1
  320 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" one.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" one.superior
 EndChar
@@ -667,6 +685,7 @@ SplineSet
  441 94 l 1
  441 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" two.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" two.superior
 EndChar
@@ -708,6 +727,7 @@ SplineSet
  427 430 398 377 341 351 c 1
  406 326 439 279 439 210 c 1xe2
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" three.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" three.superior
 EndChar
@@ -738,6 +758,7 @@ SplineSet
  460 232 l 1
  460 173 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" four.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" four.superior
 EndChar
@@ -772,6 +793,7 @@ SplineSet
  162 415 l 1
  189 444 228 459 279 459 c 1xd8
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" five.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" five.superior
 EndChar
@@ -808,6 +830,7 @@ SplineSet
  226 396 249 401 274 401 c 0
  323 401 363 384 394 350 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" six.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" six.superior
 EndChar
@@ -829,6 +852,7 @@ SplineSet
  96 619 l 1
  96 676 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" seven.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" seven.superior
 EndChar
@@ -877,6 +901,7 @@ SplineSet
  432 450 405 408 350 377 c 1
  413 341 445 286 445 212 c 2xe2
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" eight.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" eight.superior
 EndChar
@@ -914,6 +939,7 @@ SplineSet
  311 681 354 664 386 630 c 0
  418 596 434 552 434 497 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" nine.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" nine.superior
 EndChar
@@ -938,6 +964,7 @@ SplineSet
  204 375 l 1
  204 291 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" colon.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" colon.superior
 EndChar
@@ -962,6 +989,7 @@ SplineSet
  204 368 l 1
  204 283 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" semicolon.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" semicolon.superior
 EndChar
@@ -985,6 +1013,7 @@ SplineSet
  926 300 l 1
  926 238 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" less.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" less.superior
 EndChar
@@ -1008,6 +1037,7 @@ SplineSet
  449 375 l 1
  449 315 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" equal.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" equal.superior
 EndChar
@@ -1031,6 +1061,7 @@ SplineSet
  526 -90 l 1
  668 238 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" greater.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" greater.superior
 EndChar
@@ -1070,6 +1101,7 @@ SplineSet
  312 681 352 666 384 635 c 0
  416 604 432 565 432 518 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" question.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" question.superior
 EndChar
@@ -1121,6 +1153,7 @@ SplineSet
  596 591 613 543 613 481 c 2
  613 33 l 1
 EndSplineSet
+Validated: 37
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" at.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" at.superior
 EndChar
@@ -1147,6 +1180,7 @@ SplineSet
  335 676 l 1
  570 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" A.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" A.superior
 EndChar
@@ -1191,6 +1225,7 @@ SplineSet
  512 384 489 365 461 355 c 1
  531 329 566 281 566 210 c 2xf4
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" B.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" B.superior
 EndChar
@@ -1228,6 +1263,7 @@ SplineSet
  450 145 468 175 477 214 c 1
  545 214 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" C.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" C.superior
 EndChar
@@ -1262,6 +1298,7 @@ SplineSet
  415 678 469 658 508 619 c 0
  537 590 556 550 565 500 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" D.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" D.superior
 EndChar
@@ -1289,6 +1326,7 @@ SplineSet
  523 97 l 1
  523 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" E.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" E.superior
 EndChar
@@ -1314,6 +1352,7 @@ SplineSet
  523 676 l 1
  523 615 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" F.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" F.superior
 EndChar
@@ -1356,6 +1395,7 @@ SplineSet
  551 379 l 1
  551 270 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" G.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" G.superior
 EndChar
@@ -1383,6 +1423,7 @@ SplineSet
  568 676 l 1
  568 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" H.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" H.superior
 EndChar
@@ -1402,6 +1443,7 @@ SplineSet
  175 676 l 1
  175 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" I.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" I.superior
 EndChar
@@ -1428,6 +1470,7 @@ SplineSet
  389 676 l 1
  389 230 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" J.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" J.superior
 EndChar
@@ -1455,6 +1498,7 @@ SplineSet
  373 444 l 1
  609 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" K.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" K.superior
 EndChar
@@ -1476,6 +1520,7 @@ SplineSet
  521 97 l 1
  521 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" L.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" L.superior
 EndChar
@@ -1504,6 +1549,7 @@ SplineSet
  682 676 l 1
  682 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" M.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" M.superior
 EndChar
@@ -1529,6 +1575,7 @@ SplineSet
  603 676 l 1
  603 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" N.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" N.superior
 EndChar
@@ -1571,6 +1618,7 @@ SplineSet
  387 687 442 665 487 620 c 0
  515 592 533 557 540 515 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" O.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" O.superior
 EndChar
@@ -1604,6 +1652,7 @@ SplineSet
  365 676 l 2
  424 676 472 659 509 625 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" P.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" P.superior
 EndChar
@@ -1651,6 +1700,7 @@ SplineSet
  539 165 526 137 505 112 c 1
  563 61 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Q.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Q.superior
 EndChar
@@ -1687,6 +1737,7 @@ SplineSet
  500 355 466 335 423 326 c 1
  575 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" R.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" R.superior
 EndChar
@@ -1726,6 +1777,7 @@ SplineSet
  336 384 l 2
  389 376 428 361 454 339 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" S.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" S.superior
 EndChar
@@ -1749,6 +1801,7 @@ SplineSet
  494 684 l 1
  494 623 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" T.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" T.superior
 EndChar
@@ -1779,6 +1832,7 @@ SplineSet
  565 682 l 1
  565 247 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" U.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" U.superior
 EndChar
@@ -1800,6 +1854,7 @@ SplineSet
  440 683 l 1
  512 683 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" V.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" V.superior
 EndChar
@@ -1827,6 +1882,7 @@ SplineSet
  724 676 l 1
  797 676 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" W.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" W.superior
 EndChar
@@ -1853,6 +1909,7 @@ SplineSet
  312 364 l 1
  510 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" X.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" X.superior
 EndChar
@@ -1877,6 +1934,7 @@ SplineSet
  407 676 l 1
  481 676 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Y.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Y.superior
 EndChar
@@ -1901,6 +1959,7 @@ SplineSet
  477 97 l 1
  477 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Z.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Z.superior
 EndChar
@@ -1924,6 +1983,7 @@ SplineSet
  260 27 l 1
  260 -31 l 1xd0
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" bracketleft.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" bracketleft.superior
 EndChar
@@ -1942,6 +2002,7 @@ SplineSet
  82 740 l 1
  337 -31 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" backslash.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" backslash.superior
 EndChar
@@ -1965,6 +2026,7 @@ SplineSet
  212 743 l 1
  212 -31 l 1xe0
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" bracketright.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" bracketright.superior
 EndChar
@@ -1986,6 +2048,7 @@ SplineSet
  299 703 l 1
  458 428 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" asciicircum.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" asciicircum.superior
 EndChar
@@ -2004,6 +2067,7 @@ SplineSet
  510 -117 l 1
  510 -162 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" underscore.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" underscore.superior
 EndChar
@@ -2023,6 +2087,7 @@ SplineSet
  171 783 l 1
  171 636 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" quoteleft.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" quoteleft.superior
 EndChar
@@ -2061,6 +2126,7 @@ SplineSet
  363 482 422 433 422 334 c 2
  422 34 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" a.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" a.superior
 EndChar
@@ -2096,6 +2162,7 @@ SplineSet
  346 485 382 472 407 446 c 0
  443 410 461 347 461 258 c 0
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" b.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" b.superior
 EndChar
@@ -2128,6 +2195,7 @@ SplineSet
  313 92 349 109 380 142 c 1
  424 100 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" c.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" c.superior
 EndChar
@@ -2163,6 +2231,7 @@ SplineSet
  225 31 189 44 164 70 c 0
  128 106 110 169 110 258 c 0
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" d.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" d.superior
 EndChar
@@ -2199,6 +2268,7 @@ SplineSet
  448 230 l 1
  149 230 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" e.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" e.superior
 EndChar
@@ -2231,6 +2301,7 @@ SplineSet
  271 495 l 1
  271 445 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" f.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" f.superior
 EndChar
@@ -2273,6 +2344,7 @@ SplineSet
  368 88 l 1
  338 49 297 30 244 30 c 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" g.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" g.superior
 EndChar
@@ -2302,6 +2374,7 @@ SplineSet
  443 413 458 371 458 320 c 2
  458 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" h.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" h.superior
 EndChar
@@ -2326,6 +2399,7 @@ SplineSet
  163 677 l 1
  163 604 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" i.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" i.superior
 EndChar
@@ -2355,6 +2429,7 @@ SplineSet
  158 666 l 1
  158 593 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" j.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" j.superior
 EndChar
@@ -2382,6 +2457,7 @@ SplineSet
  308 350 l 1
  482 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" k.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" k.superior
 EndChar
@@ -2406,6 +2482,7 @@ SplineSet
  256 91 l 1
  256 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" l.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" l.superior
 EndChar
@@ -2444,6 +2521,7 @@ SplineSet
  744 410 759 370 759 318 c 2
  759 35 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" m.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" m.superior
 EndChar
@@ -2473,6 +2551,7 @@ SplineSet
  443 412 458 371 458 318 c 2
  458 35 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" n.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" n.superior
 EndChar
@@ -2507,6 +2586,7 @@ SplineSet
  315 501 358 484 393 449 c 0
  428 414 445 353 445 266 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" o.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" o.superior
 EndChar
@@ -2544,6 +2624,7 @@ SplineSet
  345 486 383 473 408 447 c 0
  444 411 462 348 462 259 c 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" p.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" p.superior
 EndChar
@@ -2581,6 +2662,7 @@ SplineSet
  225 31 187 44 162 70 c 0
  126 106 108 169 108 258 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" q.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" q.superior
 EndChar
@@ -2607,6 +2689,7 @@ SplineSet
  197 463 238 483 295 483 c 0
  338 483 374 469 402 442 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" r.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" r.superior
 EndChar
@@ -2641,6 +2724,7 @@ SplineSet
  294 288 l 2
  381 280 425 240 425 168 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" s.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" s.superior
 EndChar
@@ -2673,6 +2757,7 @@ SplineSet
  267 88 l 1
  267 32 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" t.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" t.superior
 EndChar
@@ -2702,6 +2787,7 @@ SplineSet
  453 477 l 1
  453 34 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" u.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" u.superior
 EndChar
@@ -2723,6 +2809,7 @@ SplineSet
  345 475 l 1
  415 475 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" v.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" v.superior
 EndChar
@@ -2750,6 +2837,7 @@ SplineSet
  608 477 l 1
  678 477 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" w.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" w.superior
 EndChar
@@ -2776,6 +2864,7 @@ SplineSet
  274 260 l 1
  424 35 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" x.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" x.superior
 EndChar
@@ -2803,6 +2892,7 @@ SplineSet
  345 457 l 1
  415 457 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" y.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" y.superior
 EndChar
@@ -2828,6 +2918,7 @@ SplineSet
  389 91 l 1
  389 34 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" z.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" z.superior
 EndChar
@@ -2871,6 +2962,7 @@ SplineSet
  292 27 l 1
  292 -31 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" braceleft.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" braceleft.superior
 EndChar
@@ -2889,6 +2981,7 @@ SplineSet
  195 743 l 1
  195 -31 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" bar.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" bar.superior
 EndChar
@@ -2932,6 +3025,7 @@ SplineSet
  292 385 l 1
  292 327 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" braceright.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" braceright.superior
 EndChar
@@ -2959,6 +3053,7 @@ SplineSet
  375 277 400 291 427 318 c 1
  468 277 l 1x80
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" asciitilde.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" asciitilde.superior
 EndChar
@@ -2983,6 +3078,7 @@ SplineSet
  181 456 l 1
  181 381 l 1xc0
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" exclamdown.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" exclamdown.superior
 EndChar
@@ -3021,6 +3117,7 @@ SplineSet
  328 200 358 216 385 247 c 1
  429 206 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" cent.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" cent.superior
 EndChar
@@ -3056,6 +3153,7 @@ SplineSet
  474 97 l 1
  474 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" sterling.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" sterling.superior
 EndChar
@@ -3074,6 +3172,7 @@ SplineSet
  215 676 l 1
  269 676 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" fraction.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" fraction.superior
 EndChar
@@ -3114,6 +3213,7 @@ SplineSet
  408 676 l 1
  481 676 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" yen.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" yen.superior
 EndChar
@@ -3146,6 +3246,7 @@ SplineSet
  356 667 l 1
  356 612 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" florin.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" florin.superior
 EndChar
@@ -3200,6 +3301,7 @@ SplineSet
  326 421 l 2
  365 410 395 390 417 361 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" section.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" section.superior
 EndChar
@@ -3245,6 +3347,7 @@ SplineSet
  530 225 517 185 490 150 c 1
  557 84 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" currency.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" currency.superior
 EndChar
@@ -3264,6 +3367,7 @@ SplineSet
  163 704 l 1
  163 550 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" quotesingle.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" quotesingle.superior
 EndChar
@@ -3288,6 +3392,7 @@ SplineSet
  333 783 l 1
  333 636 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" quotedblleft.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" quotedblleft.superior
 EndChar
@@ -3315,6 +3420,7 @@ SplineSet
  454 159 l 1
  454 79 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" guillemotleft.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" guillemotleft.superior
 EndChar
@@ -3335,6 +3441,7 @@ SplineSet
  240 159 l 1
  240 79 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" guilsinglleft.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" guilsinglleft.superior
 EndChar
@@ -3355,6 +3462,7 @@ SplineSet
  88 457 l 1
  278 268 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" guilsinglright.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" guilsinglright.superior
 EndChar
@@ -3397,6 +3505,7 @@ SplineSet
  453 677 l 1
  453 611 l 1xec
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" fi.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" fi.superior
 EndChar
@@ -3439,6 +3548,7 @@ SplineSet
  545 92 l 1
  545 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" fl.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" fl.superior
 EndChar
@@ -3457,6 +3567,7 @@ SplineSet
  449 300 l 1
  449 239 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" endash.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" endash.superior
 EndChar
@@ -3484,6 +3595,7 @@ SplineSet
  508 494 l 1
  508 436 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" dagger.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" dagger.superior
 EndChar
@@ -3519,6 +3631,7 @@ SplineSet
  508 68 l 1
  508 10 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" daggerdbl.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" daggerdbl.superior
 EndChar
@@ -3539,6 +3652,7 @@ SplineSet
  249 312 l 1
  230 228 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" periodcentered.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" periodcentered.superior
 EndChar
@@ -3566,6 +3680,7 @@ SplineSet
  477 665 l 1
  477 -173 l 1xe8
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" paragraph.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" paragraph.superior
 EndChar
@@ -3590,6 +3705,7 @@ SplineSet
  191 467 226 481 266 481 c 0
  306 481 341 467 370 438 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" bullet.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" bullet.superior
 EndChar
@@ -3609,6 +3725,7 @@ SplineSet
  171 76 l 1
  171 0 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" quotesinglbase.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" quotesinglbase.superior
 EndChar
@@ -3633,6 +3750,7 @@ SplineSet
  333 76 l 1
  333 0 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" quotedblbase.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" quotedblbase.superior
 EndChar
@@ -3657,6 +3775,7 @@ SplineSet
  333 704 l 1
  333 628 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" quotedblright.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" quotedblright.superior
 EndChar
@@ -3684,6 +3803,7 @@ SplineSet
  303 457 l 1
  492 268 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" guillemotright.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" guillemotright.superior
 EndChar
@@ -3713,6 +3833,7 @@ SplineSet
  640 87 l 1
  640 5 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ellipsis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ellipsis.superior
 EndChar
@@ -3789,6 +3910,7 @@ SplineSet
  1049 308 1060 279 1060 242 c 2
  1060 148 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" perthousand.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" perthousand.superior
 EndChar
@@ -3828,6 +3950,7 @@ SplineSet
  263 458 l 1
  263 382 l 1
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" questiondown.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" questiondown.superior
 EndChar
@@ -3847,6 +3970,7 @@ SplineSet
  211 739 l 1
  290 602 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" grave.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" grave.superior
 EndChar
@@ -3866,6 +3990,7 @@ SplineSet
  289 739 l 1
  366 739 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" acute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" acute.superior
 EndChar
@@ -3888,6 +4013,7 @@ SplineSet
  281 739 l 1
  393 602 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" circumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" circumflex.superior
 EndChar
@@ -3914,6 +4040,7 @@ SplineSet
  322 662 339 672 358 691 c 1
  391 659 l 1xa0
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" tilde.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" tilde.superior
 EndChar
@@ -3934,6 +4061,7 @@ SplineSet
  540 668 l 1
  528 617 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" macron.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" macron.superior
 EndChar
@@ -3956,6 +4084,7 @@ SplineSet
  309 646 342 671 349 720 c 1
  398 720 l 1
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" breve.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" breve.superior
 EndChar
@@ -3975,6 +4104,7 @@ SplineSet
  286 704 l 1
  286 638 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" dotaccent.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" dotaccent.superior
 EndChar
@@ -3999,6 +4129,7 @@ SplineSet
  378 687 l 1
  378 606 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" dieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" dieresis.superior
 EndChar
@@ -4033,6 +4164,7 @@ SplineSet
  279 792 304 782 325 761 c 0
  346 740 356 715 356 686 c 2
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ring.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ring.superior
 EndChar
@@ -4052,6 +4184,7 @@ SplineSet
  246 -74 l 1
  306 -74 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" cedilla.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" cedilla.superior
 EndChar
@@ -4076,6 +4209,7 @@ SplineSet
  354 739 l 1
  430 739 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" hungarumlaut.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" hungarumlaut.superior
 EndChar
@@ -4095,6 +4229,7 @@ SplineSet
  252 -74 l 1
  316 -209 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ogonek.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ogonek.superior
 EndChar
@@ -4117,6 +4252,7 @@ SplineSet
  331 739 l 1
  393 739 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" caron.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" caron.superior
 EndChar
@@ -4135,6 +4271,7 @@ SplineSet
  800 301 l 1
  800 239 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" emdash.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" emdash.superior
 EndChar
@@ -4170,6 +4307,7 @@ SplineSet
  824 97 l 1
  824 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" AE.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" AE.superior
 EndChar
@@ -4207,6 +4345,7 @@ SplineSet
  303 696 350 656 350 577 c 2
  350 339 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ordfeminine.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ordfeminine.superior
 EndChar
@@ -4236,6 +4375,7 @@ SplineSet
  526 97 l 1
  526 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Lslash.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Lslash.superior
 EndChar
@@ -4289,6 +4429,7 @@ SplineSet
  518 585 535 555 541 522 c 0
  547 489 550 433 550 354 c 0
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Oslash.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Oslash.superior
 EndChar
@@ -4341,6 +4482,7 @@ SplineSet
  890 94 l 1
  890 34 l 1
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" OE.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" OE.superior
 EndChar
@@ -4375,6 +4517,7 @@ SplineSet
  265 695 299 681 327 653 c 0
  355 625 369 579 369 515 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ordmasculine.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ordmasculine.superior
 EndChar
@@ -4429,6 +4572,7 @@ SplineSet
  720 393 736 341 736 275 c 2
  736 245 l 1
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ae.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ae.superior
 EndChar
@@ -4448,6 +4592,7 @@ SplineSet
  158 467 l 1
  158 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" dotlessi.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" dotlessi.superior
 EndChar
@@ -4480,6 +4625,7 @@ SplineSet
  266 91 l 1
  266 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" lslash.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" lslash.superior
 EndChar
@@ -4524,6 +4670,7 @@ SplineSet
  445 523 l 1
  394 437 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" oslash.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" oslash.superior
 EndChar
@@ -4574,6 +4721,7 @@ SplineSet
  745 388 761 336 761 270 c 2
  761 240 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" oe.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" oe.superior
 EndChar
@@ -4619,6 +4767,7 @@ SplineSet
  460 370 464 348 464 319 c 2
  464 163 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" germandbls.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" germandbls.superior
 EndChar
@@ -4649,6 +4798,7 @@ SplineSet
  195 743 l 1
  195 428 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" brokenbar.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" brokenbar.superior
 EndChar
@@ -4696,6 +4846,7 @@ SplineSet
  529 682 606 650 670 586 c 0
  734 522 766 445 766 355 c 0
 EndSplineSet
+Validated: 524297
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" copyright.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" copyright.superior
 EndChar
@@ -4717,6 +4868,7 @@ SplineSet
  450 297 l 1
  450 113 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" logicalnot.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" logicalnot.superior
 EndChar
@@ -4736,6 +4888,7 @@ SplineSet
  518 300 l 1
  504 239 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" minus.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" minus.superior
 EndChar
@@ -4790,6 +4943,7 @@ SplineSet
  527 680 604 648 668 584 c 0
  732 520 764 443 764 353 c 0
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" registered.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" registered.superior
 EndChar
@@ -4823,6 +4977,7 @@ SplineSet
  272 705 307 691 336 662 c 0
  365 633 380 598 380 557 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" degree.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" degree.superior
 EndChar
@@ -4855,6 +5010,7 @@ SplineSet
  449 347 l 1
  449 287 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" plusminus.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" plusminus.superior
 EndChar
@@ -4887,6 +5043,7 @@ SplineSet
  304 485 l 1
  304 440 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" two.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" two.superior.superior
 EndChar
@@ -4928,6 +5085,7 @@ SplineSet
  298 707 277 671 235 654 c 1
  283 637 307 605 307 558 c 1xf4
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" three.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" three.superior.superior
 EndChar
@@ -4958,6 +5116,7 @@ SplineSet
  557 456 l 1
  455 14 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" mu.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" mu.superior
 EndChar
@@ -4979,6 +5138,7 @@ SplineSet
  219 871 l 1
  219 438 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" one.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" one.superior.superior
 EndChar
@@ -5022,6 +5182,7 @@ SplineSet
  702 141 l 1
  702 93 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" onequarter.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" onequarter.superior
 EndChar
@@ -5065,6 +5226,7 @@ SplineSet
  707 82 l 1
  707 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" onehalf.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" onehalf.superior
 EndChar
@@ -5125,6 +5287,7 @@ SplineSet
  743 141 l 1
  743 93 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" threequarters.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" threequarters.superior
 EndChar
@@ -5156,6 +5319,7 @@ SplineSet
  258 907 l 1
  337 770 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Agrave.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Agrave.superior
 EndChar
@@ -5187,6 +5351,7 @@ SplineSet
  335 676 l 1
  570 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Aacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Aacute.superior
 EndChar
@@ -5221,6 +5386,7 @@ SplineSet
  328 907 l 1
  440 770 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Acircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Acircumflex.superior
 EndChar
@@ -5259,6 +5425,7 @@ SplineSet
  369 830 386 840 405 859 c 1
  438 827 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Atilde.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Atilde.superior
 EndChar
@@ -5296,6 +5463,7 @@ SplineSet
  425 855 l 1
  425 774 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Adieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Adieresis.superior
 EndChar
@@ -5343,6 +5511,7 @@ SplineSet
  326 954 351 944 372 923 c 0
  393 902 403 877 403 848 c 2
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Aring.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Aring.superior
 EndChar
@@ -5385,6 +5554,7 @@ SplineSet
  299 -76 l 1
  359 -76 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Ccedilla.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Ccedilla.superior
 EndChar
@@ -5417,6 +5587,7 @@ SplineSet
  268 907 l 1
  347 770 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Egrave.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Egrave.superior
 EndChar
@@ -5449,6 +5620,7 @@ SplineSet
  523 97 l 1
  523 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Eacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Eacute.superior
 EndChar
@@ -5484,6 +5656,7 @@ SplineSet
  338 907 l 1
  450 770 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Ecircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Ecircumflex.superior
 EndChar
@@ -5521,6 +5694,7 @@ SplineSet
  435 855 l 1
  435 774 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Edieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Edieresis.superior
 EndChar
@@ -5545,6 +5719,7 @@ SplineSet
  126 907 l 1
  205 770 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Igrave.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Igrave.superior
 EndChar
@@ -5569,6 +5744,7 @@ SplineSet
  175 676 l 1
  175 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Iacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Iacute.superior
 EndChar
@@ -5596,6 +5772,7 @@ SplineSet
  181 907 l 1
  293 770 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Icircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Icircumflex.superior
 EndChar
@@ -5625,6 +5802,7 @@ SplineSet
  279 855 l 1
  279 774 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Idieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Idieresis.superior
 EndChar
@@ -5669,6 +5847,7 @@ SplineSet
  357 677 l 2
  438 677 500 645 542 581 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Eth.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Eth.superior
 EndChar
@@ -5706,6 +5885,7 @@ SplineSet
  426 830 443 840 462 859 c 1
  495 827 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Ntilde.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Ntilde.superior
 EndChar
@@ -5753,6 +5933,7 @@ SplineSet
  275 908 l 1
  354 771 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Ograve.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Ograve.superior
 EndChar
@@ -5800,6 +5981,7 @@ SplineSet
  387 687 442 665 487 620 c 0
  515 592 533 557 540 515 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Oacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Oacute.superior
 EndChar
@@ -5850,6 +6032,7 @@ SplineSet
  345 908 l 1
  457 771 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Ocircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Ocircumflex.superior
 EndChar
@@ -5904,6 +6087,7 @@ SplineSet
  386 831 403 841 422 860 c 1
  455 828 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Otilde.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Otilde.superior
 EndChar
@@ -5956,6 +6140,7 @@ SplineSet
  442 856 l 1
  442 775 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Odieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Odieresis.superior
 EndChar
@@ -5982,6 +6167,7 @@ SplineSet
  301 270 l 1
  437 134 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" multiply.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" multiply.superior
 EndChar
@@ -6017,6 +6203,7 @@ SplineSet
  291 907 l 1
  370 770 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Ugrave.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Ugrave.superior
 EndChar
@@ -6052,6 +6239,7 @@ SplineSet
  369 907 l 5
  446 907 l 5
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Uacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Uacute.superior
 EndChar
@@ -6090,6 +6278,7 @@ SplineSet
  361 907 l 1
  473 770 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Ucircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Ucircumflex.superior
 EndChar
@@ -6130,6 +6319,7 @@ SplineSet
  458 855 l 1
  458 774 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Udieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Udieresis.superior
 EndChar
@@ -6159,6 +6349,7 @@ SplineSet
  295 907 l 1
  372 907 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Yacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Yacute.superior
 EndChar
@@ -6194,6 +6385,7 @@ SplineSet
  365 546 l 2
  424 546 472 529 509 494 c 0
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Thorn.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Thorn.superior
 EndChar
@@ -6237,6 +6429,7 @@ SplineSet
  213 738 l 1
  292 601 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" agrave.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" agrave.superior
 EndChar
@@ -6280,6 +6473,7 @@ SplineSet
  291 738 l 1
  368 738 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" aacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" aacute.superior
 EndChar
@@ -6326,6 +6520,7 @@ SplineSet
  283 738 l 1
  395 601 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" acircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" acircumflex.superior
 EndChar
@@ -6376,6 +6571,7 @@ SplineSet
  324 661 341 671 360 690 c 1
  393 658 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" atilde.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" atilde.superior
 EndChar
@@ -6424,6 +6620,7 @@ SplineSet
  380 686 l 1
  380 605 l 1xf2
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" adieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" adieresis.superior
 EndChar
@@ -6482,6 +6679,7 @@ SplineSet
  281 791 306 781 327 760 c 0
  348 739 358 714 358 685 c 2
 EndSplineSet
+Validated: 37
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" aring.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" aring.superior
 EndChar
@@ -6519,6 +6717,7 @@ SplineSet
  235 -74 l 1
  303 -74 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ccedilla.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ccedilla.superior
 EndChar
@@ -6560,6 +6759,7 @@ SplineSet
  227 736 l 1
  306 599 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" egrave.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" egrave.superior
 EndChar
@@ -6601,6 +6801,7 @@ SplineSet
  305 736 l 1
  382 736 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" eacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" eacute.superior
 EndChar
@@ -6645,6 +6846,7 @@ SplineSet
  297 736 l 1
  409 599 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ecircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ecircumflex.superior
 EndChar
@@ -6691,6 +6893,7 @@ SplineSet
  394 684 l 1
  394 603 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" edieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" edieresis.superior
 EndChar
@@ -6715,6 +6918,7 @@ SplineSet
  115 739 l 1
  194 602 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" igrave.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" igrave.superior
 EndChar
@@ -6739,6 +6943,7 @@ SplineSet
  167 739 l 1
  244 739 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" iacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" iacute.superior
 EndChar
@@ -6766,6 +6971,7 @@ SplineSet
  169 739 l 1
  281 602 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" icircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" icircumflex.superior
 EndChar
@@ -6795,6 +7001,7 @@ SplineSet
  265 687 l 1
  265 606 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" idieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" idieresis.superior
 EndChar
@@ -6840,6 +7047,7 @@ SplineSet
  409 417 424 384 432 357 c 0
  440 330 444 296 444 254 c 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" eth.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" eth.superior
 EndChar
@@ -6881,6 +7089,7 @@ SplineSet
  354 663 371 673 390 692 c 1
  423 660 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ntilde.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ntilde.superior
 EndChar
@@ -6920,6 +7129,7 @@ SplineSet
  214 741 l 1
  293 604 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ograve.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ograve.superior
 EndChar
@@ -6959,6 +7169,7 @@ SplineSet
  302 741 l 1
  379 741 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" oacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" oacute.superior
 EndChar
@@ -7001,6 +7212,7 @@ SplineSet
  294 741 l 1
  406 604 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ocircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ocircumflex.superior
 EndChar
@@ -7047,6 +7259,7 @@ SplineSet
  335 664 352 674 371 693 c 1
  404 661 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" otilde.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" otilde.superior
 EndChar
@@ -7091,6 +7304,7 @@ SplineSet
  391 689 l 1
  391 608 l 1xe4
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" odieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" odieresis.superior
 EndChar
@@ -7121,6 +7335,7 @@ SplineSet
  300 468 l 1
  300 391 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" divide.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" divide.superior
 EndChar
@@ -7155,6 +7370,7 @@ SplineSet
  236 740 l 1
  315 603 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ugrave.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ugrave.superior
 EndChar
@@ -7189,6 +7405,7 @@ SplineSet
  314 740 l 1
  391 740 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" uacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" uacute.superior
 EndChar
@@ -7226,6 +7443,7 @@ SplineSet
  306 740 l 1
  418 603 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ucircumflex.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ucircumflex.superior
 EndChar
@@ -7265,6 +7483,7 @@ SplineSet
  403 688 l 1
  403 607 l 1xe4
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" udieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" udieresis.superior
 EndChar
@@ -7297,6 +7516,7 @@ SplineSet
  264 739 l 1
  341 739 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" yacute.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" yacute.superior
 EndChar
@@ -7333,6 +7553,7 @@ SplineSet
  344 473 382 460 407 434 c 0
  443 398 461 335 461 246 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" thorn.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" thorn.superior
 EndChar
@@ -7371,6 +7592,7 @@ SplineSet
  353 687 l 1
  353 606 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ydieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ydieresis.superior
 EndChar
@@ -7418,6 +7640,7 @@ SplineSet
  363 906 l 1
  425 906 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Scaron.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Scaron.superior
 EndChar
@@ -7460,6 +7683,7 @@ SplineSet
  330 740 l 1
  392 740 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" scaron.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" scaron.superior
 EndChar
@@ -7494,6 +7718,7 @@ SplineSet
  384 855 l 1
  384 774 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Ydieresis.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Ydieresis.superior
 EndChar
@@ -7526,6 +7751,7 @@ SplineSet
  362 907 l 1
  424 907 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Zcaron.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Zcaron.superior
 EndChar
@@ -7559,6 +7785,7 @@ SplineSet
  318 739 l 1
  380 739 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" zcaron.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" zcaron.superior
 EndChar
@@ -7582,6 +7809,7 @@ SplineSet
  487 676 l 1
  574 36 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Delta.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Delta.superior
 EndChar
@@ -7627,6 +7855,7 @@ SplineSet
  571 96 l 1
  557 36 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" Omega.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" Omega.superior
 EndChar
@@ -7650,6 +7879,7 @@ SplineSet
  471 467 l 1
  471 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" pi.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" pi.superior
 EndChar
@@ -7687,6 +7917,7 @@ SplineSet
  287 820 299 791 299 755 c 2
  299 554 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" zero.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" zero.superior.superior
 EndChar
@@ -7717,6 +7948,7 @@ SplineSet
  312 578 l 1
  312 534 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" four.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" four.superior.superior
 EndChar
@@ -7751,6 +7983,7 @@ SplineSet
  115 695 l 1
  133 714 159 724 194 724 c 1xec
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" five.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" five.superior.superior
 EndChar
@@ -7788,6 +8021,7 @@ SplineSet
  155 683 171 686 188 686 c 0
  222 686 250 675 271 652 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" six.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" six.superior.superior
 EndChar
@@ -7810,6 +8044,7 @@ SplineSet
  64 828 l 1
  64 871 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" seven.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" seven.superior.superior
 EndChar
@@ -7858,6 +8093,7 @@ SplineSet
  306 719 286 690 246 669 c 1
  293 644 316 607 316 557 c 1xe2
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" eight.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" eight.superior.superior
 EndChar
@@ -7895,6 +8131,7 @@ SplineSet
  109 867 139 879 177 879 c 0
  215 879 245 868 268 845 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" nine.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" nine.superior.superior
 EndChar
@@ -7921,6 +8158,7 @@ SplineSet
  116 485 119 470 124 459 c 0
  129 448 140 434 157 417 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" parenleft.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" parenleft.superior.superior
 EndChar
@@ -7949,6 +8187,7 @@ SplineSet
  133 861 137 840 137 814 c 2
  137 501 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" parenright.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" parenright.superior.superior
 EndChar
@@ -7978,6 +8217,7 @@ SplineSet
  319 699 330 669 330 630 c 2
  330 420 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" n.superior.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" n.superior.superior
 EndChar
@@ -8015,6 +8255,7 @@ SplineSet
  744 691 l 1
  744 306 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" trademark.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" trademark.superior
 EndChar
@@ -8058,6 +8299,7 @@ SplineSet
  418 592 434 545 434 486 c 2
  434 254 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" partialdiff.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" partialdiff.superior
 EndChar
@@ -8081,6 +8323,7 @@ SplineSet
  568 711 l 1
  568 -171 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" product.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" product.superior
 EndChar
@@ -8108,6 +8351,7 @@ SplineSet
  478 -110 l 1
  478 -171 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" summation.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" summation.superior
 EndChar
@@ -8131,6 +8375,7 @@ SplineSet
  506 676 l 1
  506 615 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" radical.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" radical.superior
 EndChar
@@ -8181,6 +8426,7 @@ SplineSet
  606 411 640 397 666 370 c 0
  692 343 705 309 705 268 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" infinity.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" infinity.superior
 EndChar
@@ -8210,6 +8456,7 @@ SplineSet
  319 668 l 1
  319 613 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" integral.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" integral.superior
 EndChar
@@ -8252,6 +8499,7 @@ SplineSet
  458 358 486 371 518 398 c 1
  550 358 l 1x20
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" approxequal.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" approxequal.superior
 EndChar
@@ -8286,6 +8534,7 @@ SplineSet
  463 222 l 1
  463 163 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" notequal.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" notequal.superior
 EndChar
@@ -8309,6 +8558,7 @@ SplineSet
  827 0 l 1
  783 -45 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" lessequal.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" lessequal.superior
 EndChar
@@ -8332,6 +8582,7 @@ SplineSet
  798 24 l 1
  667 356 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" greaterequal.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" greaterequal.superior
 EndChar
@@ -8355,6 +8606,7 @@ SplineSet
  325 680 l 1
  556 352 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" lozenge.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" lozenge.superior
 EndChar
@@ -8395,6 +8647,7 @@ SplineSet
  231 467 l 1
  393 22 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" a.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" a.sc.superior
 EndChar
@@ -8438,6 +8691,7 @@ SplineSet
  384 267 364 254 339 247 c 1
  402 229 433 195 433 146 c 1xf4
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" b.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" b.sc.superior
 EndChar
@@ -8475,6 +8729,7 @@ SplineSet
  363 419 383 385 396 340 c 1
  347 340 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" c.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" c.sc.superior
 EndChar
@@ -8511,6 +8766,7 @@ SplineSet
  308 466 350 452 381 425 c 0
  404 405 419 378 426 343 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" d.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" d.sc.superior
 EndChar
@@ -8538,6 +8794,7 @@ SplineSet
  379 83 l 1
  379 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" e.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" e.sc.superior
 EndChar
@@ -8563,6 +8820,7 @@ SplineSet
  379 467 l 1
  379 409 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" f.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" f.sc.superior
 EndChar
@@ -8605,6 +8863,7 @@ SplineSet
  417 270 l 1
  417 189 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" g.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" g.sc.superior
 EndChar
@@ -8632,6 +8891,7 @@ SplineSet
  428 467 l 1
  428 22 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" h.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" h.sc.superior
 EndChar
@@ -8650,6 +8910,7 @@ SplineSet
  139 467 l 1
  139 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" i.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" i.sc.superior
 EndChar
@@ -8676,6 +8937,7 @@ SplineSet
  287 467 l 1
  287 158 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" j.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" j.sc.superior
 EndChar
@@ -8702,6 +8964,7 @@ SplineSet
  276 301 l 1
  439 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" k.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" k.sc.superior
 EndChar
@@ -8723,6 +8986,7 @@ SplineSet
  378 83 l 1
  378 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" l.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" l.sc.superior
 EndChar
@@ -8750,6 +9014,7 @@ SplineSet
  508 467 l 1
  508 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" m.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" m.sc.superior
 EndChar
@@ -8774,6 +9039,7 @@ SplineSet
  453 467 l 1
  453 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" n.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" n.sc.superior
 EndChar
@@ -8781,7 +9047,7 @@ EndChar
 StartChar: o.sc
 Encoding: 65553 -1 270
 Width: 462
-Flags: HMWO
+Flags: HMW
 HStem: 7 59 423 59
 VStem: 70 65 351 65
 LayerCount: 2
@@ -8800,20 +9066,21 @@ SplineSet
  346 195 343 162 338 143 c 4
  333 124 325 108 314 96 c 5
  293 76 272.5 61.9004 241.5 61.9004 c 4
-239 480 m 0
- 190 480 148 464 113 432 c 0
- 93 413 79 388 72 357 c 0
- 69 340 67 303 67 245 c 0
- 67 187 69 146 73 121 c 0
- 77 96 89 73 110 52 c 0
- 142 20 191.5 -1 239.5 -1 c 1
- 288.5 -1 337 20 369 52 c 0
- 390 73 402 96 406 121 c 0
- 410 146 412 187 412 245 c 0
- 412 303 410 340 407 357 c 0
- 400 388 386 413 366 432 c 0
- 331 464 289 480 239 480 c 0
+239 480 m 4
+ 190 480 148 464 113 432 c 4
+ 93 413 79 388 72 357 c 4
+ 69 340 67 303 67 245 c 4
+ 67 187 69 146 73 121 c 4
+ 77 96 89 73 110 52 c 4
+ 142 20 191.5 -1 239.5 -1 c 5
+ 288.5 -1 337 20 369 52 c 4
+ 390 73 402 96 406 121 c 4
+ 410 146 412 187 412 245 c 4
+ 412 303 410 340 407 357 c 4
+ 400 388 386 413 366 432 c 4
+ 331 464 289 480 239 480 c 4
 EndSplineSet
+Validated: 524297
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" o.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" o.sc.superior
 EndChar
@@ -8848,6 +9115,7 @@ SplineSet
  318 464 355 452 384 428 c 0
  413 404 427 372 427 331 c 1
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" p.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" p.sc.superior
 EndChar
@@ -8895,6 +9163,7 @@ SplineSet
  401 120 395 97.0996 375 79.0996 c 1
  413 36.0996 l 1
 EndSplineSet
+Validated: 524293
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" q.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" q.sc.superior
 EndChar
@@ -8931,6 +9200,7 @@ SplineSet
  372 241 344 227 309 220 c 1
  432 18 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" r.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" r.sc.superior
 EndChar
@@ -8969,6 +9239,7 @@ SplineSet
  155 291 175 284 201 281 c 2
  249 274 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" s.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" s.sc.superior
 EndChar
@@ -8992,6 +9263,7 @@ SplineSet
  358 481 l 1
  358 421 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" t.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" t.sc.superior
 EndChar
@@ -9022,6 +9294,7 @@ SplineSet
  427 479 l 1
  427 167 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" u.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" u.sc.superior
 EndChar
@@ -9043,6 +9316,7 @@ SplineSet
  339 472 l 1
  404 472 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" v.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" v.sc.superior
 EndChar
@@ -9070,6 +9344,7 @@ SplineSet
  574 467 l 1
  636 467 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" w.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" w.sc.superior
 EndChar
@@ -9096,6 +9371,7 @@ SplineSet
  224 245 l 1
  360 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" x.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" x.sc.superior
 EndChar
@@ -9119,6 +9395,7 @@ SplineSet
  295 467 l 5
  351 467 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" y.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" y.sc.superior
 EndChar
@@ -9144,6 +9421,7 @@ SplineSet
  330 83 l 1
  330 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" z.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" z.sc.superior
 EndChar
@@ -9175,6 +9453,7 @@ SplineSet
  231 467 l 1
  393 22 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" agrave.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" agrave.sc.superior
 EndChar
@@ -9182,16 +9461,16 @@ EndChar
 StartChar: aacute.sc
 Encoding: 65566 -1 283
 Width: 400
-Flags: MW
+Flags: HMW
 HStem: 22 21G<28 81 28 28 340 393 340 340> 166 56<141 280 141 292 129 280> 658 20G<261 338 338 338>
 LayerCount: 2
 Fore
 SplineSet
-338 678 m 1
- 241 541 l 1
- 182 541 l 1
- 261 678 l 1
- 338 678 l 1
+348 678 m 5
+ 251 541 l 5
+ 179 541 l 5
+ 271 678 l 5
+ 348 678 l 5
 280 222 m 1
  212 397 l 1
  141 222 l 1
@@ -9206,6 +9485,7 @@ SplineSet
  231 467 l 1
  393 22 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" aacute.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" aacute.sc.superior
 EndChar
@@ -9240,6 +9520,7 @@ SplineSet
  231 467 l 1
  393 22 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" acircumflex.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" acircumflex.sc.superior
 EndChar
@@ -9278,6 +9559,7 @@ SplineSet
  230 467 l 1
  392 22 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" atilde.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" atilde.sc.superior
 EndChar
@@ -9315,6 +9597,7 @@ SplineSet
  231 467 l 1
  393 22 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" adieresis.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" adieresis.sc.superior
 EndChar
@@ -9362,6 +9645,7 @@ SplineSet
  231 465 l 1
  393 20 l 1
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" aring.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" aring.sc.superior
 EndChar
@@ -9397,6 +9681,7 @@ SplineSet
  587 83 l 1
  587 25 l 1
 EndSplineSet
+Validated: 524289
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ae.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ae.sc.superior
 EndChar
@@ -9439,6 +9724,7 @@ SplineSet
  363 419 383 385 396 340 c 1
  347 340 l 1
 EndSplineSet
+Validated: 5
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ccedilla.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ccedilla.sc.superior
 EndChar
@@ -9471,6 +9757,7 @@ SplineSet
  379 83 l 1
  379 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" egrave.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" egrave.sc.superior
 EndChar
@@ -9503,6 +9790,7 @@ SplineSet
  379 83 l 1
  379 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" eacute.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" eacute.sc.superior
 EndChar
@@ -9538,6 +9826,7 @@ SplineSet
  379 83 l 1
  379 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ecircumflex.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ecircumflex.sc.superior
 EndChar
@@ -9575,6 +9864,7 @@ SplineSet
  379 83 l 1
  379 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" edieresis.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" edieresis.sc.superior
 EndChar
@@ -9599,6 +9889,7 @@ SplineSet
  139 467 l 1
  139 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" igrave.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" igrave.sc.superior
 EndChar
@@ -9606,23 +9897,24 @@ EndChar
 StartChar: iacute.sc
 Encoding: 65578 -1 295
 Width: 202
-Flags: MW
+Flags: HMW
 HStem: 658 20G<156 233 233 233>
 VStem: 74 65<19 467>
 LayerCount: 2
 Fore
 SplineSet
-233 678 m 1
- 136 541 l 1
- 77 541 l 1
- 156 678 l 1
- 233 678 l 1
-139 19 m 1
- 74 19 l 1
- 74 467 l 1
- 139 467 l 1
- 139 19 l 1
+244 678 m 1
+ 147 541 l 1
+ 74 541 l 1
+ 167 678 l 1
+ 244 678 l 1
+142 19 m 1
+ 77 19 l 1
+ 77 467 l 1
+ 142 467 l 1
+ 142 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" iacute.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" iacute.sc.superior
 EndChar
@@ -9650,6 +9942,7 @@ SplineSet
  139 467 l 1
  139 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" icircumflex.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" icircumflex.sc.superior
 EndChar
@@ -9679,6 +9972,7 @@ SplineSet
  139 467 l 1
  139 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" idieresis.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" idieresis.sc.superior
 EndChar
@@ -9723,6 +10017,7 @@ SplineSet
  325 468 373 447 406 404 c 0
  420 386 428 368 431 350 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" eth.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" eth.sc.superior
 EndChar
@@ -9760,6 +10055,7 @@ SplineSet
  452 467 l 1
  452 19 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ntilde.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ntilde.sc.superior
 EndChar
@@ -9767,46 +10063,45 @@ EndChar
 StartChar: ograve.sc
 Encoding: 65583 -1 300
 Width: 462
-Flags: MW
+Flags: HMW
 HStem: 7 59 423 59 659 20G<127 204 204 204>
 VStem: 70 65 351 65
 LayerCount: 2
 Fore
 SplineSet
+241.5 61.9004 m 4
+ 210.5 61.9004 186 76 165 96 c 5
+ 154 108 146 124 141 143 c 4
+ 136 162 133 195 133 243 c 4
+ 133 291 135 324 139 343 c 4
+ 143 362 151 378 164 391 c 4
+ 184 411 209 421 239 421 c 4
+ 270 421 295 411 315 391 c 4
+ 328 378 336 362 340 343 c 4
+ 344 324 346 291 346 243 c 4
+ 346 195 343 162 338 143 c 4
+ 333 124 325 108 314 96 c 5
+ 293 76 272.5 61.9004 241.5 61.9004 c 4
+239 480 m 4
+ 190 480 148 464 113 432 c 4
+ 93 413 79 388 72 357 c 4
+ 69 340 67 303 67 245 c 4
+ 67 187 69 146 73 121 c 4
+ 77 96 89 73 110 52 c 4
+ 142 20 191.5 -1 239.5 -1 c 5
+ 288.5 -1 337 20 369 52 c 4
+ 390 73 402 96 406 121 c 4
+ 410 146 412 187 412 245 c 4
+ 412 303 410 340 407 357 c 4
+ 400 388 386 413 366 432 c 4
+ 331 464 289 480 239 480 c 4
 283 542 m 1
  203 542 l 1
  127 679 l 1
  204 679 l 1
  283 542 l 1
-320 96 m 1
- 317 94 l 1
- 330 107 338 124 342 144 c 0
- 346 164 348 198 348 245 c 0
- 348 292 346 325 342 344 c 0
- 338 363 330 379 318 391 c 0
- 297 411 271 421 240 421 c 0
- 209 421 184 411 164 391 c 0
- 151 378 143 362 139 343 c 0
- 135 324 133 291 133 243 c 0
- 133 195 136 162 141 143 c 0
- 146 124 154 108 165 96 c 1
- 186 76 212 66 243 66 c 0
- 274 66 300 76 320 96 c 1
-366 433 m 1
- 365 433 l 1
- 386 414 399 392 404 368 c 0
- 409 344 412 304 412 248 c 0
- 412 192 410 156 405 139 c 0
- 395 108 378 84 354 67 c 1
- 321 25 280 4 231 4 c 0
- 182 4 142 20 110 52 c 0
- 89 73 77 96 73 121 c 0
- 69 146 67 187 67 245 c 0
- 67 303 69 340 72 357 c 0
- 79 388 93 413 113 432 c 0
- 148 464 190 480 240 480 c 0
- 290 480 332 464 366 433 c 1
 EndSplineSet
+Validated: 524297
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ograve.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ograve.sc.superior
 EndChar
@@ -9814,46 +10109,45 @@ EndChar
 StartChar: oacute.sc
 Encoding: 65584 -1 301
 Width: 462
-Flags: MW
+Flags: HMW
 HStem: 7 59 423 59 659 20G<293 370 370 370>
 VStem: 70 65 351 65
 LayerCount: 2
 Fore
 SplineSet
+241.5 61.9004 m 0
+ 210.5 61.9004 186 76 165 96 c 1
+ 154 108 146 124 141 143 c 0
+ 136 162 133 195 133 243 c 0
+ 133 291 135 324 139 343 c 0
+ 143 362 151 378 164 391 c 0
+ 184 411 209 421 239 421 c 0
+ 270 421 295 411 315 391 c 0
+ 328 378 336 362 340 343 c 0
+ 344 324 346 291 346 243 c 0
+ 346 195 343 162 338 143 c 0
+ 333 124 325 108 314 96 c 1
+ 293 76 272.5 61.9004 241.5 61.9004 c 0
+239 480 m 0
+ 190 480 148 464 113 432 c 0
+ 93 413 79 388 72 357 c 0
+ 69 340 67 303 67 245 c 0
+ 67 187 69 146 73 121 c 0
+ 77 96 89 73 110 52 c 0
+ 142 20 191.5 -1 239.5 -1 c 1
+ 288.5 -1 337 20 369 52 c 0
+ 390 73 402 96 406 121 c 0
+ 410 146 412 187 412 245 c 0
+ 412 303 410 340 407 357 c 0
+ 400 388 386 413 366 432 c 0
+ 331 464 289 480 239 480 c 0
 370 679 m 1
  273 542 l 1
- 214 542 l 1
+ 201 542 l 1
  293 679 l 1
  370 679 l 1
-320 96 m 1
- 317 94 l 1
- 330 107 338 124 342 144 c 0
- 346 164 348 198 348 245 c 0
- 348 292 346 325 342 344 c 0
- 338 363 330 379 318 391 c 0
- 297 411 271 421 240 421 c 0
- 209 421 184 411 164 391 c 0
- 151 378 143 362 139 343 c 0
- 135 324 133 291 133 243 c 0
- 133 195 136 162 141 143 c 0
- 146 124 154 108 165 96 c 1
- 186 76 212 66 243 66 c 0
- 274 66 300 76 320 96 c 1
-366 433 m 1
- 365 433 l 1
- 386 414 399 392 404 368 c 0
- 409 344 412 304 412 248 c 0
- 412 192 410 156 405 139 c 0
- 395 108 378 84 354 67 c 1
- 321 25 280 4 231 4 c 0
- 182 4 142 20 110 52 c 0
- 89 73 77 96 73 121 c 0
- 69 146 67 187 67 245 c 0
- 67 303 69 340 72 357 c 0
- 79 388 93 413 113 432 c 0
- 148 464 190 480 240 480 c 0
- 290 480 332 464 366 433 c 1
 EndSplineSet
+Validated: 524297
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" oacute.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" oacute.sc.superior
 EndChar
@@ -9861,12 +10155,38 @@ EndChar
 StartChar: ocircumflex.sc
 Encoding: 65585 -1 302
 Width: 462
-Flags: MW
+Flags: HMW
 HStem: 7 59 423 59 659 20G<212 274 274 274>
 VStem: 70 65 351 65
 LayerCount: 2
 Fore
 SplineSet
+241.5 61.9004 m 4
+ 210.5 61.9004 186 76 165 96 c 5
+ 154 108 146 124 141 143 c 4
+ 136 162 133 195 133 243 c 4
+ 133 291 135 324 139 343 c 4
+ 143 362 151 378 164 391 c 4
+ 184 411 209 421 239 421 c 4
+ 270 421 295 411 315 391 c 4
+ 328 378 336 362 340 343 c 4
+ 344 324 346 291 346 243 c 4
+ 346 195 343 162 338 143 c 4
+ 333 124 325 108 314 96 c 5
+ 293 76 272.5 61.9004 241.5 61.9004 c 4
+239 480 m 4
+ 190 480 148 464 113 432 c 4
+ 93 413 79 388 72 357 c 4
+ 69 340 67 303 67 245 c 4
+ 67 187 69 146 73 121 c 4
+ 77 96 89 73 110 52 c 4
+ 142 20 191.5 -1 239.5 -1 c 5
+ 288.5 -1 337 20 369 52 c 4
+ 390 73 402 96 406 121 c 4
+ 410 146 412 187 412 245 c 4
+ 412 303 410 340 407 357 c 4
+ 400 388 386 413 366 432 c 4
+ 331 464 289 480 239 480 c 4
 386 542 m 1
  324 542 l 1
  243 635 l 1
@@ -9875,35 +10195,8 @@ SplineSet
  212 679 l 1
  274 679 l 1
  386 542 l 1
-320 96 m 1
- 317 94 l 1
- 330 107 338 124 342 144 c 0
- 346 164 348 198 348 245 c 0
- 348 292 346 325 342 344 c 0
- 338 363 330 379 318 391 c 0
- 297 411 271 421 240 421 c 0
- 209 421 184 411 164 391 c 0
- 151 378 143 362 139 343 c 0
- 135 324 133 291 133 243 c 0
- 133 195 136 162 141 143 c 0
- 146 124 154 108 165 96 c 1
- 186 76 212 66 243 66 c 0
- 274 66 300 76 320 96 c 1
-366 433 m 1
- 365 433 l 1
- 386 414 399 392 404 368 c 0
- 409 344 412 304 412 248 c 0
- 412 192 410 156 405 139 c 0
- 395 108 378 84 354 67 c 1
- 321 25 280 4 231 4 c 0
- 182 4 142 20 110 52 c 0
- 89 73 77 96 73 121 c 0
- 69 146 67 187 67 245 c 0
- 67 303 69 340 72 357 c 0
- 79 388 93 413 113 432 c 0
- 148 464 190 480 240 480 c 0
- 290 480 332 464 366 433 c 1
 EndSplineSet
+Validated: 524297
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ocircumflex.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ocircumflex.sc.superior
 EndChar
@@ -9911,13 +10204,39 @@ EndChar
 StartChar: otilde.sc
 Encoding: 65586 -1 303
 Width: 462
-Flags: MW
+Flags: HMW
 HStem: 7 59 423 59 542 49<294.5 309.5 294.5 316> 582 49<175 189>
 VStem: 70 65 351 65
 LayerCount: 2
 Fore
 SplineSet
-386 588 m 1xec
+241.5 61.9004 m 4xcc
+ 210.5 61.9004 186 76 165 96 c 5
+ 154 108 146 124 141 143 c 4
+ 136 162 133 195 133 243 c 4
+ 133 291 135 324 139 343 c 4
+ 143 362 151 378 164 391 c 4
+ 184 411 209 421 239 421 c 4
+ 270 421 295 411 315 391 c 4
+ 328 378 336 362 340 343 c 4
+ 344 324 346 291 346 243 c 4
+ 346 195 343 162 338 143 c 4
+ 333 124 325 108 314 96 c 5
+ 293 76 272.5 61.9004 241.5 61.9004 c 4xcc
+239 480 m 4
+ 190 480 148 464 113 432 c 4
+ 93 413 79 388 72 357 c 4
+ 69 340 67 303 67 245 c 4
+ 67 187 69 146 73 121 c 4
+ 77 96 89 73 110 52 c 4
+ 142 20 191.5 -1 239.5 -1 c 5
+ 288.5 -1 337 20 369 52 c 4
+ 390 73 402 96 406 121 c 4
+ 410 146 412 187 412 245 c 4
+ 412 303 410 340 407 357 c 4
+ 400 388 386 413 366 432 c 4
+ 331 464 289 480 239 480 c 4
+386 588 m 1
  385 588 l 1
  354 557 327 542 305 542 c 0xec
  283 542 260 549 237 562 c 0
@@ -9926,38 +10245,11 @@ SplineSet
  99 585 l 1
  130 616 157 631 180 631 c 0xdc
  203 631 225 624 247 611 c 0
- 269 598 287 591 302 591 c 0
+ 269 598 287 591 302 591 c 0xec
  317 591 334 601 353 620 c 1
- 386 588 l 1xec
-319 96 m 1
- 316 94 l 1
- 329 107 337 124 341 144 c 0
- 345 164 347 198 347 245 c 0
- 347 292 345 325 341 344 c 0
- 337 363 329 379 317 391 c 0
- 296 411 270 421 239 421 c 0
- 208 421 183 411 163 391 c 0
- 150 378 142 362 138 343 c 0
- 134 324 132 291 132 243 c 0
- 132 195 135 162 140 143 c 0
- 145 124 153 108 164 96 c 1
- 185 76 211 66 242 66 c 0
- 273 66 299 76 319 96 c 1
-365 433 m 1
- 364 433 l 1
- 385 414 398 392 403 368 c 0
- 408 344 411 304 411 248 c 0
- 411 192 409 156 404 139 c 0
- 394 108 377 84 353 67 c 1
- 320 25 279 4 230 4 c 0
- 181 4 141 20 109 52 c 0
- 88 73 76 96 72 121 c 0
- 68 146 66 187 66 245 c 0
- 66 303 68 340 71 357 c 0
- 78 388 92 413 112 432 c 0
- 147 464 189 480 239 480 c 0
- 289 480 331 464 365 433 c 1
+ 386 588 l 1
 EndSplineSet
+Validated: 524297
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" otilde.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" otilde.sc.superior
 EndChar
@@ -9965,12 +10257,38 @@ EndChar
 StartChar: odieresis.sc
 Encoding: 65587 -1 304
 Width: 462
-Flags: MW
+Flags: HMW
 HStem: 7 59 423 59 542 81<115 180 115 180 306 371>
 VStem: 70 65 115 65<542 623> 306 65<542 623> 351 65
 LayerCount: 2
 Fore
 SplineSet
+241.5 61.9004 m 4xe0
+ 210.5 61.9004 186 76 165 96 c 5
+ 154 108 146 124 141 143 c 4
+ 136 162 133 195 133 243 c 4
+ 133 291 135 324 139 343 c 4
+ 143 362 151 378 164 391 c 4
+ 184 411 209 421 239 421 c 4
+ 270 421 295 411 315 391 c 4
+ 328 378 336 362 340 343 c 4
+ 344 324 346 291 346 243 c 4
+ 346 195 343 162 338 143 c 4
+ 333 124 325 108 314 96 c 5
+ 293 76 272.5 61.9004 241.5 61.9004 c 4xe0
+239 480 m 4
+ 190 480 148 464 113 432 c 4
+ 93 413 79 388 72 357 c 4
+ 69 340 67 303 67 245 c 4
+ 67 187 69 146 73 121 c 4
+ 77 96 89 73 110 52 c 4
+ 142 20 191.5 -1 239.5 -1 c 5
+ 288.5 -1 337 20 369 52 c 4
+ 390 73 402 96 406 121 c 4
+ 410 146 412 187 412 245 c 4
+ 412 303 410 340 407 357 c 4
+ 400 388 386 413 366 432 c 4
+ 331 464 289 480 239 480 c 4
 180 542 m 1xe8
  115 542 l 1
  115 623 l 1
@@ -9981,35 +10299,8 @@ SplineSet
  306 623 l 1
  371 623 l 1
  371 542 l 1xe4
-320 96 m 1
- 317 94 l 1
- 330 107 338 124 342 144 c 0
- 346 164 348 198 348 245 c 0
- 348 292 346 325 342 344 c 0
- 338 363 330 379 318 391 c 0
- 297 411 271 421 240 421 c 0
- 209 421 184 411 164 391 c 0
- 151 378 143 362 139 343 c 0
- 135 324 133 291 133 243 c 0xf2
- 133 195 136 162 141 143 c 0
- 146 124 154 108 165 96 c 1
- 186 76 212 66 243 66 c 0
- 274 66 300 76 320 96 c 1
-366 433 m 1
- 365 433 l 1
- 386 414 399 392 404 368 c 0
- 409 344 412 304 412 248 c 0
- 412 192 410 156 405 139 c 0
- 395 108 378 84 354 67 c 1
- 321 25 280 4 231 4 c 0
- 182 4 142 20 110 52 c 0
- 89 73 77 96 73 121 c 0
- 69 146 67 187 67 245 c 0
- 67 303 69 340 72 357 c 0
- 79 388 93 413 113 432 c 0
- 148 464 190 480 240 480 c 0
- 290 480 332 464 366 433 c 1
 EndSplineSet
+Validated: 524297
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" odieresis.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" odieresis.sc.superior
 EndChar
@@ -10017,52 +10308,51 @@ EndChar
 StartChar: oslash.sc
 Encoding: 65588 -1 305
 Width: 464
-Flags: MW
+Flags: HMW
 HStem: 12 59 420 59
 VStem: 70 65 350 66
 LayerCount: 2
 Fore
 SplineSet
-302 402 m 1
- 303 402 l 1
- 284 414 262 420 236 420 c 0
- 210 420 187 410 166 390 c 0
- 153 377 145 361 141 342 c 0
- 137 323 135 292 135 249 c 0
- 135 206 136 175 139 157 c 0
- 142 139 148 124 157 112 c 1
- 302 402 l 1
-184 89 m 1
- 185 89 l 1
- 204 77 226 71 252 71 c 0
- 278 71 299 79 315 96 c 0
- 331 113 341 131 345 149 c 0
- 349 167 351 198 351 242 c 0
- 351 286 350 317 347 335 c 0
- 344 353 338 368 329 379 c 1
- 184 89 l 1
-418 237 m 2
- 418 240 l 2
- 418 185 416 146 411 123 c 0
- 406 100 393 79 372 60 c 0
- 339 29 298 14 250 14 c 0
- 219 14 191 23 166 42 c 1
+239 480 m 0
+ 190 480 148 464 113 432 c 0
+ 93 413 79 388 72 357 c 0
+ 69 340 67 303 67 245 c 0
+ 67 187 69 146 73 121 c 0
+ 77 96 89 73 110 52 c 0
+ 111.064 50.9363 112.147 49.8847 113.249 48.8456 c 1
+ 103.822 29.588 94.4048 10.3096 85 -9 c 1
  146 -9 l 1
- 93 -9 l 1
- 136 72 l 1
- 105 94 87 117 81 140 c 0
- 75 163 72 202 72 256 c 0
- 72 310 75 349 80 372 c 0
- 85 395 97 416 117 435 c 0
- 150 466 191 481 240 481 c 0
- 271 481 299 472 324 454 c 1
- 344 504 l 1
+ 159.151 17.7718 l 1
+ 184.049 5.88273 212.02 -1 239.5 -1 c 0
+ 288.5 -1 337 20 369 52 c 0
+ 390 73 402 96 406 121 c 0
+ 410 146 412 187 412 245 c 0
+ 412 303 410 340 407 357 c 0
+ 400 388 386 413 366 432 c 0
+ 365.225 432.709 364.446 433.41 363.664 434.102 c 1
  398 504 l 1
- 355 423 l 1
- 356 422 358 420 361 417 c 0
- 387 398 403 377 409 354 c 0
- 415 331 418 292 418 237 c 2
+ 335 504 l 1
+ 328.76 490.869 322.509 477.766 316.248 464.686 c 1
+ 292.931 474.895 267.242 480 239 480 c 0
+331.349 368.318 m 1
+ 335.231 360.571 338.077 352.132 340 343 c 0
+ 344 324 346 291 346 243 c 0
+ 346 195 343 162 338 143 c 0
+ 333 124 325 108 314 96 c 1
+ 293 76 272.5 61.9004 241.5 61.9004 c 0
+ 221.362 61.9004 203.967 67.8504 188.493 77.5027 c 1
+ 331.349 368.318 l 1
+289.753 409.585 m 1
+ 243.006 312.774 195.813 217.051 148.7 121.13 c 1
+ 145.625 127.865 143.058 135.178 141 143 c 0
+ 136 162 133 195 133 243 c 0
+ 133 291 135 324 139 343 c 0
+ 143 362 151 378 164 391 c 0
+ 184 411 209 421 239 421 c 0
+ 258.123 421 274.962 417.195 289.753 409.585 c 1
 EndSplineSet
+Validated: 524297
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" oslash.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" oslash.sc.superior
 EndChar
@@ -10098,6 +10388,7 @@ SplineSet
  427 479 l 1
  427 167 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ugrave.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ugrave.sc.superior
 EndChar
@@ -10105,7 +10396,7 @@ EndChar
 StartChar: uacute.sc
 Encoding: 65590 -1 307
 Width: 483
-Flags: MW
+Flags: HMW
 HStem: 11 60 459 20G<83 148 148 148 362 427 427 427> 658 20G<304 381 381 381>
 VStem: 82 65 362 65<182 479>
 LayerCount: 2
@@ -10113,7 +10404,7 @@ Fore
 SplineSet
 381 678 m 1
  284 541 l 1
- 225 541 l 1
+ 214 541 l 5
  304 678 l 1
  381 678 l 1
 427 167 m 1
@@ -10133,6 +10424,7 @@ SplineSet
  427 479 l 1
  427 167 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" uacute.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" uacute.sc.superior
 EndChar
@@ -10171,6 +10463,7 @@ SplineSet
  427 479 l 1
  427 167 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ucircumflex.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ucircumflex.sc.superior
 EndChar
@@ -10211,6 +10504,7 @@ SplineSet
  427 479 l 1
  427 167 l 1xf2
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" udieresis.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" udieresis.sc.superior
 EndChar
@@ -10218,7 +10512,7 @@ EndChar
 StartChar: yacute.sc
 Encoding: 65593 -1 310
 Width: 355
-Flags: MW
+Flags: HMW
 HStem: 658 20G<237 314 314 314>
 VStem: 155 65<19 215 19 215>
 LayerCount: 2
@@ -10226,7 +10520,7 @@ Fore
 SplineSet
 314 678 m 1
  217 541 l 1
- 158 541 l 1
+ 145 541 l 1
  237 678 l 1
  314 678 l 1
 351 467 m 1
@@ -10240,6 +10534,7 @@ SplineSet
  300 467 l 1
  351 467 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" yacute.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" yacute.sc.superior
 EndChar
@@ -10276,6 +10571,7 @@ SplineSet
  324 391 359 379 386 354 c 0
  413 329 427 296 427 255 c 2
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" thorn.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" thorn.sc.superior
 EndChar
@@ -10338,6 +10634,7 @@ SplineSet
  573 290 593 283 619 280 c 2
  667 273 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" germandbls.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" germandbls.sc.superior
 EndChar
@@ -10372,6 +10669,7 @@ SplineSet
  300 467 l 1
  351 467 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" ydieresis.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" ydieresis.sc.superior
 EndChar
@@ -10401,6 +10699,7 @@ SplineSet
  382 83 l 1
  382 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" lslash.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" lslash.sc.superior
 EndChar
@@ -10453,6 +10752,7 @@ SplineSet
  651 79 l 1
  651 20 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" oe.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" oe.sc.superior
 EndChar
@@ -10499,6 +10799,7 @@ SplineSet
  155 291 175 284 201 281 c 2
  249 274 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" scaron.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" scaron.sc.superior
 EndChar
@@ -10532,6 +10833,7 @@ SplineSet
  330 83 l 1
  330 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" zcaron.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" zcaron.sc.superior
 EndChar
@@ -10554,6 +10856,7 @@ SplineSet
  228 467 l 1
  391 25 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" delta.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" delta.sc.superior
 EndChar
@@ -10598,6 +10901,7 @@ SplineSet
  416 74 l 1
  416 16 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "sous-table 'sups' Exposant dans Latin lookup 1" omega.sc.superior
 Substitution2: "sous-table 'aalt' Activer toutes les variantes dans Latin lookup 0" omega.sc.superior
 EndChar
@@ -10622,6 +10926,7 @@ SplineSet
  91 871 l 1
  148 871 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedbl.superior
@@ -10644,6 +10949,7 @@ SplineSet
  227 896 l 1
  227 779 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: numbersign.superior
@@ -10690,6 +10996,7 @@ SplineSet
  383 744 l 1
  383 699 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dollar.superior
@@ -10740,6 +11047,7 @@ SplineSet
  220 676 l 1xde
  238 674 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: percent.superior
@@ -10795,6 +11103,7 @@ SplineSet
  494 624 502 605 502 582 c 2
  502 514 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: ampersand.superior
@@ -10844,6 +11153,7 @@ SplineSet
  428 592 413 557 386 526 c 1
  456 442 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: quotesingle.superior
@@ -10861,6 +11171,7 @@ SplineSet
  114 896 l 1
  114 779 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asterisk.superior
@@ -10892,6 +11203,7 @@ SplineSet
  192 777 l 1
  264 733 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: plus.superior
@@ -10917,6 +11229,7 @@ SplineSet
  305 621 l 1
  305 574 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: comma.superior
@@ -10934,6 +11247,7 @@ SplineSet
  121 479 l 1
  121 376 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: hyphen.superior
@@ -10951,6 +11265,7 @@ SplineSet
  245 623 l 1
  245 576 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period.superior
@@ -10968,6 +11283,7 @@ SplineSet
  125 483 l 1
  125 419 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: slash.superior
@@ -10984,6 +11300,7 @@ SplineSet
  182 915 l 1
  225 915 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: colon.superior
@@ -11006,6 +11323,7 @@ SplineSet
  143 674 l 1
  143 610 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: semicolon.superior
@@ -11028,6 +11346,7 @@ SplineSet
  143 669 l 1
  143 604 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: less.superior
@@ -11049,6 +11368,7 @@ SplineSet
  617 623 l 1
  617 575 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: equal.superior
@@ -11071,6 +11391,7 @@ SplineSet
  300 673 l 1
  300 627 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greater.superior
@@ -11092,6 +11413,7 @@ SplineSet
  351 360 l 1
  445 579 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: question.superior
@@ -11129,6 +11451,7 @@ SplineSet
  120 866 149 877 184 877 c 0
  219 877 248 867 271 846 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: at.superior
@@ -11178,6 +11501,7 @@ SplineSet
  412 814 424 782 424 741 c 2
  424 442 l 1
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: A.superior
@@ -11202,6 +11526,7 @@ SplineSet
  224 871 l 1
  380 441 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: B.superior
@@ -11243,6 +11568,7 @@ SplineSet
  348 676 331 664 310 657 c 1
  362 640 388 608 388 561 c 1xf4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: C.superior
@@ -11278,6 +11604,7 @@ SplineSet
  306 518 318 538 324 564 c 1
  369 564 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: D.superior
@@ -11310,6 +11637,7 @@ SplineSet
  236 869 l 2
  321 869 371 829 387 750 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: E.superior
@@ -11335,6 +11663,7 @@ SplineSet
  354 490 l 1
  354 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: F.superior
@@ -11358,6 +11687,7 @@ SplineSet
  354 871 l 1
  354 825 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: G.superior
@@ -11398,6 +11728,7 @@ SplineSet
  378 675 l 1
  378 600 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: H.superior
@@ -11423,6 +11754,7 @@ SplineSet
  390 871 l 1
  390 441 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: I.superior
@@ -11439,6 +11771,7 @@ SplineSet
  122 871 l 1
  122 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: J.superior
@@ -11463,6 +11796,7 @@ SplineSet
  265 871 l 1
  265 573 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: K.superior
@@ -11487,6 +11821,7 @@ SplineSet
  254 710 l 1
  412 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: L.superior
@@ -11506,6 +11841,7 @@ SplineSet
  353 490 l 1
  353 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: M.superior
@@ -11531,6 +11867,7 @@ SplineSet
  466 871 l 1
  466 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: N.superior
@@ -11553,46 +11890,48 @@ SplineSet
  414 871 l 1
  414 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: O.superior
 Encoding: 65637 -1 354
 Width: 422
-Flags: MW
+Flags: HMW
 HStem: 431 47 833 47
 VStem: 67 51 326 51
 LayerCount: 2
 Fore
 SplineSet
-148 508 m 1
- 145 504 l 1
- 165 484 190 474 220 474 c 0
- 250 474 273 482 289 499 c 0
- 305 516 315 534 319 554 c 0
- 323 574 325 608 325 655 c 0
- 325 702 323 735 319 754 c 0
- 315 773 307 788 295 800 c 0
- 275 820 250 830 220 830 c 0
- 190 830 166 820 147 800 c 0
- 135 787 127 771 123 752 c 0
- 119 733 117 700 117 653 c 0
- 117 606 119 573 124 554 c 0
- 129 535 137 520 148 508 c 1
-333 831 m 2
- 331 833 l 2
- 350 814 362 793 366 770 c 0
- 370 747 372 709 372 655 c 0
- 372 601 370 566 367 550 c 1
- 359 520 346 496 327 479 c 1
- 296 445 258 428 213 428 c 0
- 168 428 131 443 102 473 c 0
- 83 492 72 514 68 538 c 0
- 64 562 62 601 62 655 c 0
- 62 709 65 748 70 771 c 0
- 75 794 87 814 105 831 c 0
- 136 861 174 876 219 876 c 0
- 264 876 302 861 333 831 c 2
+148 508 m 5
+ 145 504 l 5
+ 165 484 190 474 220 474 c 4
+ 250 474 273 482 289 499 c 4
+ 305 516 315 534 319 554 c 4
+ 323 574 325 608 325 655 c 4
+ 325 702 323 735 319 754 c 4
+ 315 773 307 788 295 800 c 4
+ 275 820 250 830 220 830 c 4
+ 190 830 166 820 147 800 c 4
+ 135 787 127 771 123 752 c 4
+ 119 733 117 700 117 653 c 4
+ 117 606 119 573 124 554 c 4
+ 129 535 137 520 148 508 c 5
+333 831 m 6
+ 331 833 l 6
+ 350 814 362 793 366 770 c 4
+ 370 747 372 709 372 655 c 4
+ 372 601 370 566 367 550 c 5
+ 359 520 346 496 327 479 c 5
+ 296 445 258 428 213 428 c 4
+ 168 428 131 443 102 473 c 4
+ 83 492 72 514 68 538 c 4
+ 64 562 62 601 62 655 c 4
+ 62 709 65 748 70 771 c 4
+ 75 794 87 814 105 831 c 4
+ 136 861 174 876 219 876 c 4
+ 264 876 302 861 333 831 c 6
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: P.superior
@@ -11625,6 +11964,7 @@ SplineSet
  249 869 l 2
  290 869 323 858 349 835 c 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Q.superior
@@ -11670,6 +12010,7 @@ SplineSet
  372 535 362 516 346 499 c 1
  389 462 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: R.superior
@@ -11704,6 +12045,7 @@ SplineSet
  342 655 318 642 288 635 c 1
  395 441 l 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: S.superior
@@ -11741,6 +12083,7 @@ SplineSet
  139 696 158 689 183 685 c 2
  229 678 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: T.superior
@@ -11762,6 +12105,7 @@ SplineSet
  335 879 l 1
  335 832 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: U.superior
@@ -11790,6 +12134,7 @@ SplineSet
  388 877 l 1
  388 583 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: V.superior
@@ -11809,6 +12154,7 @@ SplineSet
  323 875 l 1
  373 875 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: W.superior
@@ -11834,6 +12180,7 @@ SplineSet
  544 871 l 1
  592 871 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: X.superior
@@ -11858,6 +12205,7 @@ SplineSet
  208 656 l 1
  340 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Y.superior
@@ -11879,6 +12227,7 @@ SplineSet
  277 871 l 1
  326 871 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Z.superior
@@ -11902,6 +12251,7 @@ SplineSet
  318 490 l 1
  318 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bracketleft.superior
@@ -11923,6 +12273,7 @@ SplineSet
  186 440 l 1
  186 396 l 1xd0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: backslash.superior
@@ -11939,6 +12290,7 @@ SplineSet
  55 913 l 1
  225 399 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bracketright.superior
@@ -11960,6 +12312,7 @@ SplineSet
  154 918 l 1
  154 396 l 1xe0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asciicircum.superior
@@ -11980,6 +12333,7 @@ SplineSet
  199 900 l 1
  305 693 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: underscore.superior
@@ -11997,6 +12351,7 @@ SplineSet
  340 344 l 1
  340 309 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: grave.superior
@@ -12014,6 +12369,7 @@ SplineSet
  141 918 l 1
  193 814 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: a.superior
@@ -12050,6 +12406,7 @@ SplineSet
  252 737 293 703 293 636 c 2
  293 433 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: b.superior
@@ -12084,6 +12441,7 @@ SplineSet
  236 743 263 734 280 717 c 0
  305 693 317 651 317 591 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: c.superior
@@ -12114,6 +12472,7 @@ SplineSet
  214 473 238 484 259 506 c 1
  289 478 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: d.superior
@@ -12148,6 +12507,7 @@ SplineSet
  154 437 126 446 109 464 c 1
  84 488 72 530 72 591 c 2
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: e.superior
@@ -12181,6 +12541,7 @@ SplineSet
  303 559 l 1
  104 559 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: f.superior
@@ -12211,6 +12572,7 @@ SplineSet
  186 739 l 1
  186 701 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: g.superior
@@ -12252,6 +12614,7 @@ SplineSet
  254 470 l 1
  233 445 204 432 167 432 c 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: h.superior
@@ -12279,6 +12642,7 @@ SplineSet
  306 695 317 667 317 633 c 2
  317 440 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: i.superior
@@ -12301,6 +12665,7 @@ SplineSet
  115 872 l 1
  115 817 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: j.superior
@@ -12329,6 +12694,7 @@ SplineSet
  110 867 l 1
  110 812 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: k.superior
@@ -12353,6 +12719,7 @@ SplineSet
  211 647 l 1
  327 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: l.superior
@@ -12375,6 +12742,7 @@ SplineSet
  177 485 l 1
  177 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: m.superior
@@ -12411,6 +12779,7 @@ SplineSet
  514 687 524 660 524 626 c 2
  524 437 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: o.superior
@@ -12443,6 +12812,7 @@ SplineSet
  218 743 247 731 270 708 c 0
  295 684 308 643 308 584 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: p.superior
@@ -12477,6 +12847,7 @@ SplineSet
  239 730 265 721 282 703 c 0
  307 678 319 635 319 574 c 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: q.superior
@@ -12512,6 +12883,7 @@ SplineSet
  151 421 125 430 108 448 c 1
  83 472 71 514 71 575 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: r.superior
@@ -12536,6 +12908,7 @@ SplineSet
  242 672 l 1
  228 687 211 694 190 694 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: s.superior
@@ -12568,6 +12941,7 @@ SplineSet
  201 605 l 2
  262 599 293 571 293 522 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: t.superior
@@ -12598,6 +12972,7 @@ SplineSet
  184 481 l 1
  184 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u.superior
@@ -12625,6 +13000,7 @@ SplineSet
  313 731 l 1
  313 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: v.superior
@@ -12645,6 +13021,7 @@ SplineSet
  230 731 l 1
  276 731 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: w.superior
@@ -12670,6 +13047,7 @@ SplineSet
  435 731 l 1
  481 731 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: x.superior
@@ -12695,6 +13073,7 @@ SplineSet
  183 580 l 1
  283 430 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: y.superior
@@ -12721,6 +13100,7 @@ SplineSet
  230 727 l 1
  276 727 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: z.superior
@@ -12744,6 +13124,7 @@ SplineSet
  286 479 l 1
  286 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceleft.superior
@@ -12784,6 +13165,7 @@ SplineSet
  41 679 l 1
  56 679 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bar.superior
@@ -12800,6 +13182,7 @@ SplineSet
  135 915 l 1
  135 399 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceright.superior
@@ -12839,6 +13222,7 @@ SplineSet
  142 888 148 868 148 841 c 2
  148 726 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asciitilde.superior
@@ -12865,6 +13249,7 @@ SplineSet
  251 602 267 613 285 634 c 1
  312 602 l 1xa0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: exclamdown.superior
@@ -12887,6 +13272,7 @@ SplineSet
  128 727 l 1
  128 670 l 1xc0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: cent.superior
@@ -12924,6 +13310,7 @@ SplineSet
  227 555 247 566 265 586 c 1
  295 559 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: sterling.superior
@@ -12957,6 +13344,7 @@ SplineSet
  322 487 l 1
  322 440 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: currency.superior
@@ -12999,6 +13387,7 @@ SplineSet
  363 571 353 546 333 524 c 1
  381 476 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: yen.superior
@@ -13037,6 +13426,7 @@ SplineSet
  278 871 l 1
  327 871 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: brokenbar.superior
@@ -13058,6 +13448,7 @@ SplineSet
  135 915 l 1
  135 705 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: section.superior
@@ -13110,6 +13501,7 @@ SplineSet
  230 694 l 2
  257 687 278 674 293 655 c 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: dieresis.superior
@@ -13132,37 +13524,38 @@ SplineSet
  263 881 l 1
  263 819 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: copyright.superior
 Encoding: 65692 -1 409
 Width: 570
-Flags: MW
+Flags: HMW
 HStem: 437 37 532 35 747 35<283 315 283 315> 839 38
 VStem: 76 40 194 38 485 39
 LayerCount: 2
 Fore
 SplineSet
-384 568 m 1
- 383 567 l 2
- 360 543 332 531 300 531 c 0
- 268 531 243 544 224 571 c 1
- 203 592 193 621 193 658 c 0
- 193 695 203 725 222 748 c 0
- 241 771 267 782 299 782 c 0
- 331 782 359 770 384 745 c 1
- 362 724 l 1
- 344 739 325 747 305 747 c 0
- 256 747 232 717 232 657 c 0
- 232 597 256 567 305 567 c 0
- 326 567 345 574 362 589 c 1
- 384 568 l 1
+218 568 m 1
+ 219 567 l 2
+ 242 543 270 531 302 531 c 0
+ 334 531 359 544 378 571 c 1
+ 399 592 409 621 409 658 c 0
+ 409 695 399 725 380 748 c 0
+ 361 771 335 782 303 782 c 0
+ 271 782 243 770 218 745 c 1
+ 240 724 l 1
+ 258 739 277 747 297 747 c 0
+ 346 747 370 717 370 657 c 0
+ 370 597 346 567 297 567 c 0
+ 276 567 257 574 240 589 c 1
+ 218 568 l 1
 484 655 m 1
  483 655 l 1
  483 705 465 748 429 784 c 0
  393 820 350 838 299 838 c 0
  248 838 205 820 169 784 c 0
- 133 748 115 705 115 655 c 0
+ 133 748 115 705 115 655 c 4
  115 605 133 562 169 526 c 0
  205 490 248 472 299 472 c 0
  350 472 394 490 430 526 c 0
@@ -13171,13 +13564,14 @@ SplineSet
  522 654 l 2
  522 593 500 541 456 498 c 0
  412 455 359 434 297 434 c 0
- 235 434 182 456 138 499 c 0
- 94 542 72 594 72 655 c 0
- 72 716 94 768 138 811 c 0
+ 235 434 182 456 138 499 c 4
+ 94 542 72 594 72 655 c 4
+ 72 716 94 768 138 811 c 4
  182 854 235 876 297 876 c 0
  359 876 412 855 456 812 c 0
  500 769 522 717 522 656 c 2
 EndSplineSet
+Validated: 9
 EndChar
 
 StartChar: ordfeminine.superior
@@ -13213,6 +13607,7 @@ SplineSet
  210 885 243 858 243 804 c 2
  243 642 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guillemotleft.superior
@@ -13239,6 +13634,7 @@ SplineSet
  302 526 l 1
  302 472 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: logicalnot.superior
@@ -13258,6 +13654,7 @@ SplineSet
  305 621 l 1
  305 492 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: minus.superior
@@ -13275,6 +13672,7 @@ SplineSet
  300 623 l 1
  300 576 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: registered.superior
@@ -13328,6 +13726,7 @@ SplineSet
  365 879 418 858 462 815 c 0
  506 772 528 720 528 659 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: macron.superior
@@ -13345,6 +13744,7 @@ SplineSet
  280 867 l 1
  280 828 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: degree.superior
@@ -13377,6 +13777,7 @@ SplineSet
  188 891 212 881 232 861 c 0
  252 841 262 817 262 789 c 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: plusminus.superior
@@ -13407,6 +13808,7 @@ SplineSet
  305 654 l 1
  305 608 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two.superior.superior
@@ -13437,6 +13839,7 @@ SplineSet
  174 938 170 950 161 959 c 0
  152 968 140 973 125 973 c 2
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: three.superior.superior
@@ -13476,6 +13879,7 @@ SplineSet
  207 890 192 866 161 855 c 1
  196 844 214 823 214 791 c 1xf4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: acute.superior
@@ -13493,6 +13897,7 @@ SplineSet
  193 918 l 1
  244 918 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: mu.superior
@@ -13521,6 +13926,7 @@ SplineSet
  313 727 l 1
  313 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: paragraph.superior
@@ -13546,6 +13952,7 @@ SplineSet
  344 866 l 1
  344 301 l 1xd0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: periodcentered.superior
@@ -13563,6 +13970,7 @@ SplineSet
  125 631 l 1
  125 567 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: cedilla.superior
@@ -13580,6 +13988,7 @@ SplineSet
  164 376 l 1
  204 376 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: one.superior.superior
@@ -13600,6 +14009,7 @@ SplineSet
  151 1001 l 1
  151 712 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ordmasculine.superior
@@ -13632,6 +14042,7 @@ SplineSet
  184 884 208 874 227 855 c 0
  246 836 256 805 256 762 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guillemotright.superior
@@ -13658,6 +14069,7 @@ SplineSet
  202 725 l 1
  328 599 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: onequarter.superior
@@ -13699,6 +14111,7 @@ SplineSet
  477 517 l 1
  477 481 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: onehalf.superior
@@ -13740,6 +14153,7 @@ SplineSet
  484 479 l 1
  484 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: threequarters.superior
@@ -13798,6 +14212,7 @@ SplineSet
  514 515 l 1
  514 478 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: questiondown.superior
@@ -13835,6 +14250,7 @@ SplineSet
  187 725 l 1
  187 667 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Agrave.superior
@@ -13864,6 +14280,7 @@ SplineSet
  224 871 l 1
  380 441 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Aacute.superior
@@ -13893,6 +14310,7 @@ SplineSet
  224 871 l 1
  380 441 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Acircumflex.superior
@@ -13925,6 +14343,7 @@ SplineSet
  224 871 l 1
  380 441 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Atilde.superior
@@ -13961,6 +14380,7 @@ SplineSet
  222 871 l 1
  378 441 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Adieresis.superior
@@ -13996,6 +14416,7 @@ SplineSet
  224 871 l 1
  380 441 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Aring.superior
@@ -14040,6 +14461,7 @@ SplineSet
  222 873 l 1
  378 443 l 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: AE.superior
@@ -14073,6 +14495,7 @@ SplineSet
  555 490 l 1
  555 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ccedilla.superior
@@ -14113,6 +14536,7 @@ SplineSet
  306 518 318 538 324 564 c 1
  369 564 l 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Egrave.superior
@@ -14143,6 +14567,7 @@ SplineSet
  354 490 l 1
  354 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Eacute.superior
@@ -14173,6 +14598,7 @@ SplineSet
  354 490 l 1
  354 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ecircumflex.superior
@@ -14206,6 +14632,7 @@ SplineSet
  354 490 l 1
  354 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Edieresis.superior
@@ -14241,6 +14668,7 @@ SplineSet
  354 490 l 1
  354 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Igrave.superior
@@ -14262,6 +14690,7 @@ SplineSet
  122 871 l 1
  122 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Iacute.superior
@@ -14283,6 +14712,7 @@ SplineSet
  122 871 l 1
  122 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Icircumflex.superior
@@ -14307,6 +14737,7 @@ SplineSet
  122 871 l 1
  122 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Idieresis.superior
@@ -14334,6 +14765,7 @@ SplineSet
  122 871 l 1
  122 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Eth.superior
@@ -14376,6 +14808,7 @@ SplineSet
  245 870 l 2
  302 870 345 849 374 807 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ntilde.superior
@@ -14411,6 +14844,7 @@ SplineSet
  412 871 l 1
  412 438 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ograve.superior
@@ -14456,6 +14890,7 @@ SplineSet
  136 861 174 876 219 876 c 0
  264 876 302 861 333 831 c 2
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Oacute.superior
@@ -14501,6 +14936,7 @@ SplineSet
  136 861 174 876 219 876 c 0
  264 876 302 861 333 831 c 2
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Ocircumflex.superior
@@ -14549,6 +14985,7 @@ SplineSet
  136 861 174 876 219 876 c 0
  264 876 302 861 333 831 c 2
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Otilde.superior
@@ -14601,6 +15038,7 @@ SplineSet
  134 861 172 876 217 876 c 0
  262 876 300 861 331 831 c 2
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Odieresis.superior
@@ -14651,6 +15089,7 @@ SplineSet
  136 861 174 876 219 876 c 0
  264 876 302 861 333 831 c 2
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: multiply.superior
@@ -14676,6 +15115,7 @@ SplineSet
  201 600 l 1
  292 509 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Oslash.superior
@@ -14727,6 +15167,7 @@ SplineSet
  352 804 365 784 370 762 c 0
  375 740 377 703 377 650 c 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: Ugrave.superior
@@ -14760,6 +15201,7 @@ SplineSet
  388 877 l 1
  388 583 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Uacute.superior
@@ -14793,6 +15235,7 @@ SplineSet
  388 877 l 1
  388 583 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ucircumflex.superior
@@ -14829,6 +15272,7 @@ SplineSet
  388 877 l 1
  388 583 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Udieresis.superior
@@ -14867,6 +15311,7 @@ SplineSet
  388 877 l 1
  388 583 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Yacute.superior
@@ -14893,6 +15338,7 @@ SplineSet
  277 871 l 1
  326 871 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Thorn.superior
@@ -14927,6 +15373,7 @@ SplineSet
  252 785 l 2
  292 785 325 773 350 750 c 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: germandbls.superior
@@ -14969,6 +15416,7 @@ SplineSet
  267 502 272 515 272 534 c 2
  272 632 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: agrave.superior
@@ -15010,6 +15458,7 @@ SplineSet
  252 737 293 703 293 636 c 2
  293 433 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: aacute.superior
@@ -15051,6 +15500,7 @@ SplineSet
  252 737 293 703 293 636 c 2
  293 433 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: acircumflex.superior
@@ -15095,6 +15545,7 @@ SplineSet
  252 737 293 703 293 636 c 2
  293 433 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: atilde.superior
@@ -15143,6 +15594,7 @@ SplineSet
  250 737 291 703 291 636 c 2
  291 433 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: adieresis.superior
@@ -15189,6 +15641,7 @@ SplineSet
  252 737 293 703 293 636 c 2
  293 433 l 1xf9
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: aring.superior
@@ -15244,6 +15697,7 @@ SplineSet
  250 739 291 705 291 638 c 2
  291 435 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: ae.superior
@@ -15294,6 +15748,7 @@ SplineSet
  491 672 502 636 502 591 c 2
  502 570 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ccedilla.superior
@@ -15329,6 +15784,7 @@ SplineSet
  214 473 238 484 259 506 c 1
  289 478 l 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: egrave.superior
@@ -15367,6 +15823,7 @@ SplineSet
  303 559 l 1
  104 559 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eacute.superior
@@ -15405,6 +15862,7 @@ SplineSet
  303 559 l 1
  104 559 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ecircumflex.superior
@@ -15446,6 +15904,7 @@ SplineSet
  303 559 l 1
  104 559 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: edieresis.superior
@@ -15489,122 +15948,107 @@ SplineSet
  303 559 l 1
  104 559 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: igrave.superior
 Encoding: 65759 -1 476
 Width: 166
-Flags: MW
+Flags: HMW
 HStem: 817 55<60 115 60 115>
 VStem: 63 48<438 733>
 LayerCount: 2
 Fore
 SplineSet
-114 932 m 1
- 61 932 l 1
- 10 1036 l 1
- 62 1036 l 1
- 114 932 l 1
+114 819 m 5
+ 61 819 l 5
+ 10 923 l 5
+ 62 923 l 5
+ 114 819 l 5
 111 438 m 1
  63 438 l 1
  63 733 l 1
  111 733 l 1
  111 438 l 1
-115 817 m 1
- 60 817 l 1
- 60 872 l 1
- 115 872 l 1
- 115 817 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: iacute.superior
 Encoding: 65760 -1 477
 Width: 166
-Flags: MW
+Flags: HMW
 HStem: 817 55<60 115 60 115>
 VStem: 63 48<438 733>
 LayerCount: 2
 Fore
 SplineSet
-172 1036 m 1
- 107 932 l 1
- 68 932 l 1
- 121 1036 l 1
- 172 1036 l 1
+168 923 m 5
+ 114 819 l 5
+ 64 819 l 5
+ 117 923 l 5
+ 168 923 l 5
 111 438 m 1
  63 438 l 1
  63 733 l 1
  111 733 l 1
  111 438 l 1
-115 817 m 1
- 60 817 l 1
- 60 872 l 1
- 115 872 l 1
- 115 817 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: icircumflex.superior
 Encoding: 65761 -1 478
 Width: 166
-Flags: MW
+Flags: HMW
 HStem: 817 55<60 115 60 115>
 VStem: 63 48<438 733>
 LayerCount: 2
 Fore
 SplineSet
-183 932 m 1
- 142 932 l 1
- 88 1003 l 1
- 34 932 l 1
- -8 932 l 1
- 67 1036 l 1
- 109 1036 l 1
- 183 932 l 1
+183 817 m 5
+ 142 817 l 5
+ 88 888 l 5
+ 34 817 l 5
+ -8 817 l 5
+ 67 921 l 5
+ 109 921 l 5
+ 183 817 l 5
 111 438 m 1
  63 438 l 1
  63 733 l 1
  111 733 l 1
  111 438 l 1
-115 817 m 1
- 60 817 l 1
- 60 872 l 1
- 115 872 l 1
- 115 817 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: idieresis.superior
 Encoding: 65762 -1 479
 Width: 166
-Flags: MW
+Flags: HMW
 HStem: 817 55<60 115 60 115> 932 62<-3 46 -3 46 130 179>
 VStem: -3 49<932 994> 63 48<438 733> 130 49<932 994>
 LayerCount: 2
 Fore
 SplineSet
-46 932 m 1
- -3 932 l 1
- -3 994 l 1
- 46 994 l 1
- 46 932 l 1
-179 932 m 1
- 130 932 l 1
- 130 994 l 1
- 179 994 l 1
- 179 932 l 1
+46 815 m 5
+ -3 815 l 5
+ -3 877 l 5
+ 46 877 l 5
+ 46 815 l 5
+179 815 m 5
+ 130 815 l 5
+ 130 877 l 5
+ 179 877 l 5
+ 179 815 l 5
 111 438 m 1
  63 438 l 1
  63 733 l 1
  111 733 l 1
  111 438 l 1
-115 817 m 1
- 60 817 l 1
- 60 872 l 1
- 115 872 l 1
- 115 817 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eth.superior
@@ -15649,6 +16093,7 @@ SplineSet
  283 693 294 671 300 653 c 0
  306 635 309 613 309 586 c 2
 EndSplineSet
+Validated: 37
 EndChar
 
 StartChar: ntilde.superior
@@ -15688,6 +16133,7 @@ SplineSet
  317 699 328 669 328 630 c 2
  328 420 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ograve.superior
@@ -15725,6 +16171,7 @@ SplineSet
  218 743 247 731 270 708 c 0
  295 684 308 643 308 584 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: oacute.superior
@@ -15762,6 +16209,7 @@ SplineSet
  218 743 247 731 270 708 c 0
  295 684 308 643 308 584 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ocircumflex.superior
@@ -15802,6 +16250,7 @@ SplineSet
  218 743 247 731 270 708 c 0
  295 684 308 643 308 584 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: otilde.superior
@@ -15846,6 +16295,7 @@ SplineSet
  216 743 245 731 268 708 c 0
  293 684 306 643 306 584 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: odieresis.superior
@@ -15888,6 +16338,7 @@ SplineSet
  218 743 247 731 270 708 c 0
  295 684 308 643 308 584 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: divide.superior
@@ -15915,6 +16366,7 @@ SplineSet
  207 732 l 1
  207 674 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: oslash.superior
@@ -15955,6 +16407,7 @@ SplineSet
  307 761 l 1
  269 699 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ugrave.superior
@@ -15987,6 +16440,7 @@ SplineSet
  313 731 l 1
  313 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uacute.superior
@@ -16019,6 +16473,7 @@ SplineSet
  313 731 l 1
  313 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ucircumflex.superior
@@ -16054,6 +16509,7 @@ SplineSet
  313 731 l 1
  313 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: udieresis.superior
@@ -16091,6 +16547,7 @@ SplineSet
  313 731 l 1
  313 436 l 1xe4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: yacute.superior
@@ -16122,6 +16579,7 @@ SplineSet
  230 727 l 1
  276 727 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: thorn.superior
@@ -16156,6 +16614,7 @@ SplineSet
  120 694 l 1
  140 723 169 738 206 738 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ydieresis.superior
@@ -16192,6 +16651,7 @@ SplineSet
  230 727 l 1
  276 727 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dotlessi.superior
@@ -16209,6 +16669,7 @@ SplineSet
  111 731 l 1
  111 430 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Lslash.superior
@@ -16236,6 +16697,7 @@ SplineSet
  356 490 l 1
  356 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: lslash.superior
@@ -16266,6 +16728,7 @@ SplineSet
  183 485 l 1
  183 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: OE.superior
@@ -16315,6 +16778,7 @@ SplineSet
  605 489 l 1
  605 442 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: oe.superior
@@ -16361,6 +16825,7 @@ SplineSet
  510 671 521 635 521 590 c 2
  521 569 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Scaron.superior
@@ -16406,6 +16871,7 @@ SplineSet
  139 696 158 689 183 685 c 2
  229 678 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: scaron.superior
@@ -16446,6 +16912,7 @@ SplineSet
  201 605 l 2
  262 599 293 571 293 522 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ydieresis.superior
@@ -16478,6 +16945,7 @@ SplineSet
  277 871 l 1
  326 871 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Zcaron.superior
@@ -16509,6 +16977,7 @@ SplineSet
  318 490 l 1
  318 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zcaron.superior
@@ -16540,6 +17009,7 @@ SplineSet
  286 479 l 1
  286 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: florin.superior
@@ -16570,6 +17040,7 @@ SplineSet
  254 867 l 1
  254 825 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: circumflex.superior
@@ -16590,6 +17061,7 @@ SplineSet
  188 918 l 1
  262 814 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: caron.superior
@@ -16610,6 +17082,7 @@ SplineSet
  221 918 l 1
  262 918 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: breve.superior
@@ -16630,6 +17103,7 @@ SplineSet
  210 853 232 869 237 902 c 1
  274 902 l 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: dotaccent.superior
@@ -16647,6 +17121,7 @@ SplineSet
  197 892 l 1
  197 841 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ring.superior
@@ -16678,6 +17153,7 @@ SplineSet
  192 950 210 943 224 929 c 0
  238 915 245 898 245 878 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ogonek.superior
@@ -16695,6 +17171,7 @@ SplineSet
  168 376 l 1
  211 274 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: tilde.superior
@@ -16719,6 +17196,7 @@ SplineSet
  215 862 226 870 239 885 c 1
  261 861 l 1xa0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: hungarumlaut.superior
@@ -16741,6 +17219,7 @@ SplineSet
  236 918 l 1
  287 918 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Delta.superior
@@ -16761,6 +17240,7 @@ SplineSet
  220 871 l 1
  377 444 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Omega.superior
@@ -16803,6 +17283,7 @@ SplineSet
  377 486 l 1
  377 440 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: pi.superior
@@ -16824,6 +17305,7 @@ SplineSet
  324 731 l 1
  324 431 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: endash.superior
@@ -16841,6 +17323,7 @@ SplineSet
  300 623 l 1
  300 576 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: emdash.superior
@@ -16857,6 +17340,7 @@ SplineSet
  533 623 l 1
  533 576 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quoteleft.superior
@@ -16874,6 +17358,7 @@ SplineSet
  120 948 l 1
  120 837 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quoteright.superior
@@ -16891,6 +17376,7 @@ SplineSet
  120 895 l 1
  120 838 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotesinglbase.superior
@@ -16908,6 +17394,7 @@ SplineSet
  120 477 l 1
  120 420 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedblleft.superior
@@ -16930,6 +17417,7 @@ SplineSet
  235 948 l 1
  235 837 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedblright.superior
@@ -16952,6 +17440,7 @@ SplineSet
  235 895 l 1
  235 838 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedblbase.superior
@@ -16974,6 +17463,7 @@ SplineSet
  235 477 l 1
  235 420 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dagger.superior
@@ -16999,6 +17489,7 @@ SplineSet
  345 750 l 1
  345 706 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: daggerdbl.superior
@@ -17032,6 +17523,7 @@ SplineSet
  345 468 l 1
  345 423 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bullet.superior
@@ -17053,6 +17545,7 @@ SplineSet
  135 742 161 753 191 753 c 0
  221 753 247 742 268 720 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ellipsis.superior
@@ -17080,6 +17573,7 @@ SplineSet
  447 481 l 1
  447 419 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: perthousand.superior
@@ -17154,6 +17648,7 @@ SplineSet
  719 624 727 604 727 579 c 2
  727 516 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guilsinglleft.superior
@@ -17173,6 +17668,7 @@ SplineSet
  160 526 l 1
  160 472 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guilsinglright.superior
@@ -17192,6 +17688,7 @@ SplineSet
  59 725 l 1
  186 599 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: fraction.superior
@@ -17208,6 +17705,7 @@ SplineSet
  143 871 l 1
  179 871 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zero.superior.superior
@@ -17243,6 +17741,7 @@ SplineSet
  200 968 208 948 208 923 c 2
  208 787 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: four.superior.superior
@@ -17271,6 +17770,7 @@ SplineSet
  212 807 l 1
  212 773 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: five.superior.superior
@@ -17301,6 +17801,7 @@ SplineSet
  81 881 l 1
  94 896 112 904 135 904 c 1xec
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: six.superior.superior
@@ -17336,6 +17837,7 @@ SplineSet
  111 883 122 886 133 886 c 0
  156 886 175 878 190 862 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: seven.superior.superior
@@ -17356,6 +17858,7 @@ SplineSet
  43 969 l 1
  43 1002 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eight.superior.superior
@@ -17401,6 +17904,7 @@ SplineSet
  214 900 199 880 170 865 c 1
  205 848 222 823 222 789 c 1xe2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: nine.superior.superior
@@ -17435,6 +17939,7 @@ SplineSet
  77 998 98 1007 124 1007 c 0
  150 1007 171 999 187 984 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenleft.superior.superior
@@ -17460,6 +17965,7 @@ SplineSet
  80 742 82 732 86 725 c 0
  90 718 98 709 109 698 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenright.superior.superior
@@ -17486,6 +17992,7 @@ SplineSet
  31 698 l 1
  39 706 43 710 43 711 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: n.superior.superior
@@ -17513,6 +18020,7 @@ SplineSet
  222 887 230 867 230 840 c 2
  230 697 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: trademark.superior
@@ -17548,6 +18056,7 @@ SplineSet
  510 883 l 1
  510 621 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: partialdiff.superior
@@ -17589,6 +18098,7 @@ SplineSet
  289 817 300 786 300 747 c 2
  300 592 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: product.superior
@@ -17610,6 +18120,7 @@ SplineSet
  390 897 l 1
  390 303 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: summation.superior
@@ -17636,6 +18147,7 @@ SplineSet
  319 349 l 1
  319 302 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: radical.superior
@@ -17657,6 +18169,7 @@ SplineSet
  366 871 l 1
  366 825 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: infinity.superior
@@ -17704,6 +18217,7 @@ SplineSet
  415 695 437 686 455 667 c 0
  473 648 482 624 482 595 c 2
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: integral.superior
@@ -17731,6 +18245,7 @@ SplineSet
  219 868 l 1
  219 826 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: approxequal.superior
@@ -17771,6 +18286,7 @@ SplineSet
  251 661 266 671 283 691 c 1
  310 661 l 1x28
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: notequal.superior
@@ -17804,6 +18320,7 @@ SplineSet
  308 570 l 1
  308 525 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: lessequal.superior
@@ -17825,6 +18342,7 @@ SplineSet
  551 420 l 1
  522 390 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greaterequal.superior
@@ -17846,6 +18364,7 @@ SplineSet
  532 436 l 1
  445 658 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: lozenge.superior
@@ -17867,6 +18386,7 @@ SplineSet
  217 873 l 1
  371 655 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: fi.superior
@@ -17907,6 +18427,7 @@ SplineSet
  313 871 l 1
  313 821 l 1xd8
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: fl.superior
@@ -17947,6 +18468,7 @@ SplineSet
  375 485 l 1
  375 443 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: .notdef.superior
@@ -17969,6 +18491,7 @@ SplineSet
  289 442 l 1
  55 442 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: a.sc.superior
@@ -17994,6 +18517,7 @@ SplineSet
  154 731 l 1
  262 432 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: b.sc.superior
@@ -18034,6 +18558,7 @@ SplineSet
  265 596 250 588 232 583 c 1
  279 572 302 550 302 517 c 1xf4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: c.sc.superior
@@ -18067,6 +18592,7 @@ SplineSet
  102 507 108 497 117 490 c 1
  130 477 147 470 167 470 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: d.sc.superior
@@ -18100,6 +18626,7 @@ SplineSet
  211 733 239 725 258 709 c 0
  277 693 289 674 294 651 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: e.sc.superior
@@ -18125,6 +18652,7 @@ SplineSet
  258 480 l 1
  258 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: f.sc.superior
@@ -18148,6 +18676,7 @@ SplineSet
  258 731 l 1
  258 687 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: g.sc.superior
@@ -18188,6 +18717,7 @@ SplineSet
  289 602 l 1
  289 546 l 1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: h.sc.superior
@@ -18213,6 +18743,7 @@ SplineSet
  297 731 l 1
  297 431 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: i.sc.superior
@@ -18230,6 +18761,7 @@ SplineSet
  98 731 l 1
  98 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: j.sc.superior
@@ -18254,6 +18786,7 @@ SplineSet
  197 731 l 1
  197 525 l 1xa0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: k.sc.superior
@@ -18279,6 +18812,7 @@ SplineSet
  190 614 l 1
  298 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: l.sc.superior
@@ -18298,6 +18832,7 @@ SplineSet
  257 480 l 1
  257 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: m.sc.superior
@@ -18324,6 +18859,7 @@ SplineSet
  350 731 l 1
  350 426 l 1xb0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: n.sc.superior
@@ -18347,6 +18883,7 @@ SplineSet
  314 731 l 1
  314 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: o.sc.superior
@@ -18387,6 +18924,7 @@ SplineSet
  201 743 231 732 255 711 c 0
  270 698 279 682 283 662 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: p.sc.superior
@@ -18418,6 +18956,7 @@ SplineSet
  222 732 248 724 268 707 c 0
  288 690 298 668 298 641 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: q.sc.superior
@@ -18462,6 +19001,7 @@ SplineSet
  281 506 272 493 257 480 c 1
  296 450 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: r.sc.superior
@@ -18496,6 +19036,7 @@ SplineSet
  258 576 238 567 213 563 c 1
  301 427 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: s.sc.superior
@@ -18533,6 +19074,7 @@ SplineSet
  172 604 l 1
  202 600 224 592 239 580 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: t.sc.superior
@@ -18554,6 +19096,7 @@ SplineSet
  244 743 l 1
  244 697 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u.sc.superior
@@ -18582,6 +19125,7 @@ SplineSet
  296 742 l 1
  296 530 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: v.sc.superior
@@ -18602,6 +19146,7 @@ SplineSet
  226 735 l 1
  269 735 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: w.sc.superior
@@ -18627,6 +19172,7 @@ SplineSet
  413 731 l 1
  460 731 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: x.sc.superior
@@ -18652,6 +19198,7 @@ SplineSet
  144 576 l 1
  235 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: y.sc.superior
@@ -18674,6 +19221,7 @@ SplineSet
  205 731 l 1
  239 731 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: z.sc.superior
@@ -18697,6 +19245,7 @@ SplineSet
  243 480 l 1
  243 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: agrave.sc.superior
@@ -18727,6 +19276,7 @@ SplineSet
  154 731 l 1
  262 432 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: aacute.sc.superior
@@ -18757,6 +19307,7 @@ SplineSet
  154 731 l 1
  262 432 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: acircumflex.sc.superior
@@ -18790,6 +19341,7 @@ SplineSet
  154 731 l 1
  262 432 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: atilde.sc.superior
@@ -18827,6 +19379,7 @@ SplineSet
  153 731 l 1
  261 432 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: adieresis.sc.superior
@@ -18862,6 +19415,7 @@ SplineSet
  154 731 l 1
  262 432 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: aring.sc.superior
@@ -18907,6 +19461,7 @@ SplineSet
  154 729 l 1
  262 430 l 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: ae.sc.superior
@@ -18940,6 +19495,7 @@ SplineSet
  396 480 l 1
  396 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ccedilla.sc.superior
@@ -18978,6 +19534,7 @@ SplineSet
  102 507 108 497 117 490 c 1
  130 477 147 470 167 470 c 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: egrave.sc.superior
@@ -19008,6 +19565,7 @@ SplineSet
  258 480 l 1
  258 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eacute.sc.superior
@@ -19038,6 +19596,7 @@ SplineSet
  258 480 l 1
  258 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ecircumflex.sc.superior
@@ -19071,6 +19630,7 @@ SplineSet
  258 480 l 1
  258 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: edieresis.sc.superior
@@ -19106,6 +19666,7 @@ SplineSet
  258 480 l 1
  258 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: igrave.sc.superior
@@ -19127,6 +19688,7 @@ SplineSet
  98 731 l 1
  98 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: iacute.sc.superior
@@ -19148,6 +19710,7 @@ SplineSet
  98 731 l 1
  98 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: icircumflex.sc.superior
@@ -19172,6 +19735,7 @@ SplineSet
  98 731 l 1
  98 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: idieresis.sc.superior
@@ -19199,6 +19763,7 @@ SplineSet
  98 731 l 1
  98 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eth.sc.superior
@@ -19241,6 +19806,7 @@ SplineSet
  181 732 l 2
  225 732 258 718 281 690 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ntilde.sc.superior
@@ -19276,107 +19842,135 @@ SplineSet
  313 731 l 1
  313 426 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ograve.sc.superior
 Encoding: 65886 -1 603
 Width: 319
-Flags: MW
+Flags: HMW
 HStem: 421 45 699 45
 VStem: 51 50 240 49
 LayerCount: 2
 Fore
 SplineSet
+179 466 m 5
+ 158 466 143 472.9 133 486 c 5
+ 126 494 124 504 121 516 c 4
+ 118 528 116 550 116 581 c 4
+ 116 612 117 634 120 647 c 4
+ 123 660 130 672 141 683 c 4
+ 152 694 162 699 179 699 c 4
+ 199 699 206 694 217 683 c 4
+ 228 672 235 660 238 647 c 4
+ 241 634 242 612 242 581 c 4
+ 242 550 240 528 237 516 c 4
+ 234 504 229 494 222 486 c 5
+ 208 473 200 466 179 466 c 5
+ 179 466 l 5
+181 743 m 4
+ 149 743 121 732 97 710 c 4
+ 83 697 74 683 70 667 c 4
+ 66 651 64 623 64 584 c 4
+ 64 545 65 517 68 500 c 4
+ 71 483 80 467 94 453 c 4
+ 116 431 149 420 180 420 c 4
+ 214 420 242 431 264 453 c 4
+ 278 467 287 483 290 500 c 4
+ 293 517 294 545 294 584 c 4
+ 294 623 292 651 288 667 c 4
+ 284 683 275 697 261 710 c 4
+ 237 732 216 743 181 743 c 4
 208 804 m 1
  128 804 l 1
  52 941 l 1
  129 941 l 1
  208 804 l 1
-168 466 m 1
- 167 465 l 1
- 188 465 204 471 215 482 c 0
- 226 493 233 505 236 518 c 0
- 239 531 240 553 240 584 c 0
- 240 615 239 637 236 649 c 0
- 233 661 226 672 215 683 c 0
- 204 694 188 699 168 699 c 0
- 148 699 132 694 121 683 c 0
- 110 672 103 660 100 647 c 0
- 97 634 96 612 96 581 c 0
- 96 550 98 528 101 516 c 0
- 104 504 109 494 116 486 c 1
- 130 473 147 466 168 466 c 1
-283 662 m 1
- 283 664 l 1
- 286 652 288 627 288 589 c 0
- 288 551 285 524 279 508 c 0
- 273 492 261 479 243 468 c 1
- 220 436 192 420 158 420 c 0
- 124 420 96 431 74 453 c 0
- 60 467 51 483 48 500 c 0
- 45 517 44 545 44 584 c 0
- 44 623 46 651 50 667 c 0
- 54 683 63 697 77 710 c 0
- 101 732 131 743 166 743 c 0
- 201 743 231 732 255 711 c 0
- 270 698 279 682 283 662 c 1
 EndSplineSet
+Validated: 524293
 EndChar
 
 StartChar: oacute.sc.superior
 Encoding: 65887 -1 604
 Width: 319
-Flags: MW
+Flags: HMW
 HStem: 421 45 699 45
 VStem: 51 50 240 49
 LayerCount: 2
 Fore
 SplineSet
+179 466 m 1
+ 158 466 143 472.9 133 486 c 1
+ 126 494 124 504 121 516 c 0
+ 118 528 116 550 116 581 c 0
+ 116 612 117 634 120 647 c 0
+ 123 660 130 672 141 683 c 0
+ 152 694 162 699 179 699 c 0
+ 199 699 206 694 217 683 c 0
+ 228 672 235 660 238 647 c 0
+ 241 634 242 612 242 581 c 0
+ 242 550 240 528 237 516 c 0
+ 234 504 229 494 222 486 c 1
+ 208 473 200 466 179 466 c 1
+ 179 466 l 1
+181 743 m 0
+ 149 743 121 732 97 710 c 0
+ 83 697 74 683 70 667 c 0
+ 66 651 64 623 64 584 c 0
+ 64 545 65 517 68 500 c 0
+ 71 483 80 467 94 453 c 0
+ 116 431 149 420 180 420 c 0
+ 214 420 242 431 264 453 c 0
+ 278 467 287 483 290 500 c 0
+ 293 517 294 545 294 584 c 0
+ 294 623 292 651 288 667 c 0
+ 284 683 275 697 261 710 c 0
+ 237 732 216 743 181 743 c 0
 294 941 m 1
  197 804 l 1
- 138 804 l 1
+ 121 804 l 1
  217 941 l 1
  294 941 l 1
-168 466 m 1
- 167 465 l 1
- 188 465 204 471 215 482 c 0
- 226 493 233 505 236 518 c 0
- 239 531 240 553 240 584 c 0
- 240 615 239 637 236 649 c 0
- 233 661 226 672 215 683 c 0
- 204 694 188 699 168 699 c 0
- 148 699 132 694 121 683 c 0
- 110 672 103 660 100 647 c 0
- 97 634 96 612 96 581 c 0
- 96 550 98 528 101 516 c 0
- 104 504 109 494 116 486 c 1
- 130 473 147 466 168 466 c 1
-283 662 m 1
- 283 664 l 1
- 286 652 288 627 288 589 c 0
- 288 551 285 524 279 508 c 0
- 273 492 261 479 243 468 c 1
- 220 436 192 420 158 420 c 0
- 124 420 96 431 74 453 c 0
- 60 467 51 483 48 500 c 0
- 45 517 44 545 44 584 c 0
- 44 623 46 651 50 667 c 0
- 54 683 63 697 77 710 c 0
- 101 732 131 743 166 743 c 0
- 201 743 231 732 255 711 c 0
- 270 698 279 682 283 662 c 1
 EndSplineSet
+Validated: 524293
 EndChar
 
 StartChar: ocircumflex.sc.superior
 Encoding: 65888 -1 605
 Width: 319
-Flags: MW
+Flags: HMW
 HStem: 421 45 699 45
 VStem: 51 50 240 49
 LayerCount: 2
 Fore
 SplineSet
+179 466 m 5
+ 158 466 143 472.9 133 486 c 5
+ 126 494 124 504 121 516 c 4
+ 118 528 116 550 116 581 c 4
+ 116 612 117 634 120 647 c 4
+ 123 660 130 672 141 683 c 4
+ 152 694 162 699 179 699 c 4
+ 199 699 206 694 217 683 c 4
+ 228 672 235 660 238 647 c 4
+ 241 634 242 612 242 581 c 4
+ 242 550 240 528 237 516 c 4
+ 234 504 229 494 222 486 c 5
+ 208 473 200 466 179 466 c 5
+ 179 466 l 5
+181 743 m 4
+ 149 743 121 732 97 710 c 4
+ 83 697 74 683 70 667 c 4
+ 66 651 64 623 64 584 c 4
+ 64 545 65 517 68 500 c 4
+ 71 483 80 467 94 453 c 4
+ 116 431 149 420 180 420 c 4
+ 214 420 242 431 264 453 c 4
+ 278 467 287 483 290 500 c 4
+ 293 517 294 545 294 584 c 4
+ 294 623 292 651 288 667 c 4
+ 284 683 275 697 261 710 c 4
+ 237 732 216 743 181 743 c 4
 311 804 m 1
  249 804 l 1
  168 897 l 1
@@ -19385,47 +19979,47 @@ SplineSet
  137 941 l 1
  199 941 l 1
  311 804 l 1
-168 466 m 1
- 167 465 l 1
- 188 465 204 471 215 482 c 0
- 226 493 233 505 236 518 c 0
- 239 531 240 553 240 584 c 0
- 240 615 239 637 236 649 c 0
- 233 661 226 672 215 683 c 0
- 204 694 188 699 168 699 c 0
- 148 699 132 694 121 683 c 0
- 110 672 103 660 100 647 c 0
- 97 634 96 612 96 581 c 0
- 96 550 98 528 101 516 c 0
- 104 504 109 494 116 486 c 1
- 130 473 147 466 168 466 c 1
-283 662 m 1
- 283 664 l 1
- 286 652 288 627 288 589 c 0
- 288 551 285 524 279 508 c 0
- 273 492 261 479 243 468 c 1
- 220 436 192 420 158 420 c 0
- 124 420 96 431 74 453 c 0
- 60 467 51 483 48 500 c 0
- 45 517 44 545 44 584 c 0
- 44 623 46 651 50 667 c 0
- 54 683 63 697 77 710 c 0
- 101 732 131 743 166 743 c 0
- 201 743 231 732 255 711 c 0
- 270 698 279 682 283 662 c 1
 EndSplineSet
+Validated: 524293
 EndChar
 
 StartChar: otilde.sc.superior
 Encoding: 65889 -1 606
 Width: 319
-Flags: MW
+Flags: HMW
 HStem: 421 45 699 45 804 49<219.5 234.5 219.5 241> 844 49<100 114>
 VStem: 51 50 240 49
 LayerCount: 2
 Fore
 SplineSet
-311 850 m 1xec
+179 466 m 5xcc
+ 158 466 143 472.9 133 486 c 5
+ 126 494 124 504 121 516 c 4
+ 118 528 116 550 116 581 c 4
+ 116 612 117 634 120 647 c 4
+ 123 660 130 672 141 683 c 4
+ 152 694 162 699 179 699 c 4
+ 199 699 206 694 217 683 c 4
+ 228 672 235 660 238 647 c 4
+ 241 634 242 612 242 581 c 4
+ 242 550 240 528 237 516 c 4
+ 234 504 229 494 222 486 c 5
+ 208 473 200 466 179 466 c 5
+ 179 466 l 5xcc
+181 743 m 4
+ 149 743 121 732 97 710 c 4
+ 83 697 74 683 70 667 c 4
+ 66 651 64 623 64 584 c 4
+ 64 545 65 517 68 500 c 4
+ 71 483 80 467 94 453 c 4
+ 116 431 149 420 180 420 c 4
+ 214 420 242 431 264 453 c 4
+ 278 467 287 483 290 500 c 4
+ 293 517 294 545 294 584 c 4
+ 294 623 292 651 288 667 c 4
+ 284 683 275 697 261 710 c 4
+ 237 732 216 743 181 743 c 4
+311 850 m 1
  310 850 l 1
  279 819 252 804 230 804 c 0xec
  208 804 185 811 162 824 c 0
@@ -19434,49 +20028,49 @@ SplineSet
  24 847 l 1
  55 878 82 893 105 893 c 0xdc
  128 893 150 886 172 873 c 0
- 194 860 212 853 227 853 c 0
+ 194 860 212 853 227 853 c 0xec
  242 853 259 863 278 882 c 1
- 311 850 l 1xec
-167 466 m 1
- 166 465 l 1
- 187 465 203 471 214 482 c 0
- 225 493 232 505 235 518 c 0
- 238 531 239 553 239 584 c 0
- 239 615 238 637 235 649 c 0
- 232 661 225 672 214 683 c 0
- 203 694 187 699 167 699 c 0
- 147 699 131 694 120 683 c 0
- 109 672 102 660 99 647 c 0
- 96 634 95 612 95 581 c 0
- 95 550 97 528 100 516 c 0
- 103 504 108 494 115 486 c 1
- 129 473 146 466 167 466 c 1
-282 662 m 1
- 282 664 l 1
- 285 652 287 627 287 589 c 0
- 287 551 284 524 278 508 c 0
- 272 492 260 479 242 468 c 1
- 219 436 191 420 157 420 c 0
- 123 420 95 431 73 453 c 0
- 59 467 50 483 47 500 c 0
- 44 517 43 545 43 584 c 0
- 43 623 45 651 49 667 c 0
- 53 683 62 697 76 710 c 0
- 100 732 130 743 165 743 c 0
- 200 743 230 732 254 711 c 0
- 269 698 278 682 282 662 c 1
+ 311 850 l 1
 EndSplineSet
+Validated: 524293
 EndChar
 
 StartChar: odieresis.sc.superior
 Encoding: 65890 -1 607
 Width: 319
-Flags: MW
+Flags: HMW
 HStem: 421 45 699 45 804 81<40 105 40 105 231 296>
 VStem: 40 65<804 885> 51 50 231 65<804 885> 240 49
 LayerCount: 2
 Fore
 SplineSet
+170 466 m 1xe0
+ 149 466 134 472.9 124 486 c 1
+ 117 494 115 504 112 516 c 0
+ 109 528 107 550 107 581 c 0
+ 107 612 108 634 111 647 c 0
+ 114 660 121 672 132 683 c 0
+ 143 694 153 699 170 699 c 0
+ 190 699 197 694 208 683 c 0
+ 219 672 226 660 229 647 c 0
+ 232 634 233 612 233 581 c 0
+ 233 550 231 528 228 516 c 0
+ 225 504 220 494 213 486 c 1
+ 199 473 191 466 170 466 c 1
+ 170 466 l 1xe0
+172 743 m 0
+ 140 743 112 732 88 710 c 0
+ 74 697 65 683 61 667 c 0
+ 57 651 55 623 55 584 c 0
+ 55 545 56 517 59 500 c 0
+ 62 483 71 467 85 453 c 0
+ 107 431 140 420 171 420 c 0
+ 205 420 233 431 255 453 c 0
+ 269 467 278 483 281 500 c 0
+ 284 517 285 545 285 584 c 0
+ 285 623 283 651 279 667 c 0
+ 275 683 266 697 252 710 c 0
+ 228 732 207 743 172 743 c 0
 105 804 m 1xf0
  40 804 l 1
  40 885 l 1
@@ -19487,87 +20081,56 @@ SplineSet
  231 885 l 1
  296 885 l 1
  296 804 l 1xe4
-168 466 m 1
- 167 465 l 1
- 188 465 204 471 215 482 c 0
- 226 493 233 505 236 518 c 0
- 239 531 240 553 240 584 c 0
- 240 615 239 637 236 649 c 0
- 233 661 226 672 215 683 c 0
- 204 694 188 699 168 699 c 0
- 148 699 132 694 121 683 c 0
- 110 672 103 660 100 647 c 0
- 97 634 96 612 96 581 c 0
- 96 550 98 528 101 516 c 0xea
- 104 504 109 494 116 486 c 1
- 130 473 147 466 168 466 c 1
-283 662 m 1
- 283 664 l 1
- 286 652 288 627 288 589 c 0
- 288 551 285 524 279 508 c 0
- 273 492 261 479 243 468 c 1
- 220 436 192 420 158 420 c 0
- 124 420 96 431 74 453 c 0
- 60 467 51 483 48 500 c 0
- 45 517 44 545 44 584 c 0
- 44 623 46 651 50 667 c 0
- 54 683 63 697 77 710 c 0
- 101 732 131 743 166 743 c 0
- 201 743 231 732 255 711 c 0
- 270 698 279 682 283 662 c 1
 EndSplineSet
+Validated: 524293
 EndChar
 
 StartChar: oslash.sc.superior
 Encoding: 65891 -1 608
 Width: 320
-Flags: MW
+Flags: HMW
 HStem: 425 45 697 45
 VStem: 51 48 239 50
 LayerCount: 2
 Fore
 SplineSet
-207 685 m 1
- 208 684 l 1
- 195 692 180 696 163 696 c 0
- 146 696 132 691 121 680 c 0
- 110 669 103 658 100 646 c 0
- 97 634 96 614 96 586 c 0
- 96 558 97 538 99 526 c 0
- 101 514 105 504 110 497 c 1
- 207 685 l 1
-129 481 m 1
- 128 480 l 1
- 141 472 156 468 173 468 c 0
- 190 468 204 474 215 485 c 0
- 226 496 233 507 236 519 c 0
- 239 531 240 551 240 580 c 0
- 240 609 239 629 237 641 c 0
- 235 653 231 662 225 669 c 1
- 129 481 l 1
-289 573 m 1
- 287 574 l 1
- 287 537 285 511 282 496 c 0
- 279 481 270 467 255 454 c 0
- 232 433 207 423 180 423 c 0
- 153 423 131 430 114 444 c 1
- 101 408 l 1
+181 743 m 0
+ 149 743 121 732 97 710 c 0
+ 83 697 74 683 70 667 c 0
+ 66 651 64 623 64 584 c 0
+ 64 545 65 517 68 500 c 0
+ 70.5108 485.772 77.2242 472.245 87.554 460.005 c 1
  62 408 l 1
- 94 467 l 1
- 89 471 l 1
- 70 484 57 499 50 517 c 1
- 47 530 46 555 46 591 c 0
- 46 627 48 653 51 668 c 0
- 54 683 63 697 77 710 c 0
- 100 731 128 741 162 741 c 0
- 183 741 202 734 219 720 c 1
+ 101 408 l 1
+ 115.252 436.835 l 1
+ 134.697 425.612 157.859 420 180 420 c 0
+ 214 420 242 431 264 453 c 0
+ 278 467 287 483 290 500 c 0
+ 293 517 294 545 294 584 c 0
+ 294 623 292 651 288 667 c 0
+ 284 683 275 697 261 710 c 0
+ 258.478 712.312 255.988 714.503 253.513 716.572 c 1
+ 260.008 729.715 266.504 742.857 273 756 c 1
  233 756 l 1
- 273 756 l 1
- 240 697 l 1
- 241 696 243 695 245 693 c 0
- 265 680 277 666 282 651 c 0
- 287 636 289 610 289 573 c 1
+ 222.998 735.645 l 1
+ 210.926 740.548 197.523 743 181 743 c 0
+229.342 667.668 m 1
+ 233.453 661.085 236.339 654.196 238 647 c 0
+ 241 634 242 612 242 581 c 0
+ 242 550 240 528 237 516 c 0
+ 234 504 229 494 222 486 c 1
+ 208 473 200 466 179 466 c 0
+ 160.741 466 147.018 471.216 137.174 481.189 c 1
+ 229.342 667.668 l 1
+202.752 694.443 m 1
+ 119.295 524.6 l 1
+ 117.266 537.366 116 556.334 116 581 c 0
+ 116 612 117 634 120 647 c 0
+ 123 660 130 672 141 683 c 0
+ 152 694 162 699 179 699 c 0
+ 189.829 699 196.847 697.534 202.752 694.443 c 1
 EndSplineSet
+Validated: 524297
 EndChar
 
 StartChar: ugrave.sc.superior
@@ -19601,6 +20164,7 @@ SplineSet
  296 742 l 1
  296 530 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uacute.sc.superior
@@ -19634,6 +20198,7 @@ SplineSet
  296 742 l 1
  296 530 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ucircumflex.sc.superior
@@ -19670,6 +20235,7 @@ SplineSet
  296 742 l 1
  296 530 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: udieresis.sc.superior
@@ -19708,6 +20274,7 @@ SplineSet
  296 742 l 1
  296 530 l 1xd4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: yacute.sc.superior
@@ -19734,6 +20301,7 @@ SplineSet
  205 731 l 1
  239 731 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: thorn.sc.superior
@@ -19768,6 +20336,7 @@ SplineSet
  224 681 249 673 268 656 c 0
  287 639 297 617 297 589 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: germandbls.sc.superior
@@ -19830,6 +20399,7 @@ SplineSet
  451 605 l 1
  481 601 503 593 518 581 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ydieresis.sc.superior
@@ -19862,6 +20432,7 @@ SplineSet
  205 731 l 1
  239 731 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: lslash.sc.superior
@@ -19889,6 +20460,7 @@ SplineSet
  260 480 l 1
  260 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: oe.sc.superior
@@ -19939,6 +20511,7 @@ SplineSet
  449 471 l 1
  449 425 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: scaron.sc.superior
@@ -19984,6 +20557,7 @@ SplineSet
  172 604 l 1
  202 600 224 592 239 580 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zcaron.sc.superior
@@ -20015,6 +20589,7 @@ SplineSet
  243 480 l 1
  243 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: delta.sc.superior
@@ -20036,6 +20611,7 @@ SplineSet
  152 731 l 1
  260 436 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: omega.sc.superior
@@ -20078,6 +20654,7 @@ SplineSet
  289 471 l 1
  289 427 l 1xc8
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
